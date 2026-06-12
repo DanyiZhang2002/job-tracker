@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>秋招岗位追踪器 | AI · 数据科学 · 策略运营 · 数据产品</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="header">
+    <div class="header-content">
+      <div class="header-title">
+        <h1>🎯 秋招岗位追踪器</h1>
+        <p class="header-sub">AI · 数据科学 · 策略运营 · 数据产品 · 每日自动更新</p>
+      </div>
+      <div class="header-stats">
+        <div class="stat-pill" id="total-count">— 个岗位</div>
+        <div class="stat-pill" id="update-time">更新中…</div>
+        <button class="profile-btn" onclick="openProfile()">⚙️ 我的信息</button>
+      </div>
+    </div>
+    <!-- 主页面Tab -->
+    <div class="page-tabs">
+      <button class="page-tab active" id="tab-jobs" onclick="showPage('jobs')">🔍 找岗位</button>
+      <button class="page-tab" id="tab-applied" onclick="showPage('applied')">📋 已投递 <span class="applied-badge" id="applied-badge" style="display:none">0</span></button>
+    </div>
+  </div>
+
+  <!-- 筛选栏 -->
+  <div class="filters" id="filters-bar">
+    <input type="text" id="search-input" placeholder="搜索公司、岗位、技能…" oninput="applyFilters()" />
+    <select id="category-filter" onchange="applyFilters()">
+      <option value="">全部方向</option>
+      <option value="AI">AI / 算法</option>
+      <option value="数据科学">数据科学</option>
+      <option value="数据产品">数据产品</option>
+      <option value="策略运营">策略运营</option>
+    </select>
+    <select id="company-filter" onchange="applyFilters()">
+      <option value="">全部公司</option>
+      <option value="字节跳动">字节跳动</option>
+      <option value="腾讯">腾讯</option>
+      <option value="阿里巴巴">阿里巴巴</option>
+      <option value="美团">美团</option>
+      <option value="快手">快手</option>
+      <option value="百度">百度</option>
+      <option value="小红书">小红书</option>
+    </select>
+    <select id="tier-filter" onchange="applyFilters()">
+      <option value="">全部tier</option>
+      <option value="S">S级大厂</option>
+      <option value="A">A级大厂</option>
+    </select>
+    <label class="checkbox-label">
+      <input type="checkbox" id="new-only" onchange="applyFilters()" />
+      只看新岗位
+    </label>
+  </div>
+
+  <!-- 主内容区 -->
+  <div id="main-content">
+    <!-- 找岗位页面 -->
+    <div id="page-jobs">
+      <div id="cards-container"></div>
+    </div>
+
+    <!-- 已投递页面 -->
+    <div id="page-applied" style="display:none">
+      <div class="applied-empty" id="applied-empty">
+        <div style="font-size:3rem">📭</div>
+        <p>还没有投递记录</p>
+        <p style="color:#999;font-size:0.9rem">在岗位卡片点击"投递此岗位"即可追踪进度</p>
+      </div>
+      <div id="applied-list"></div>
+    </div>
+  </div>
+
+  <!-- 岗位详情弹窗 -->
+  <div class="modal-overlay" id="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal" id="job-modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modal-content"></div>
+  </div>
+
+  <!-- 生成材料侧边栏 -->
+  <div class="sidebar" id="material-sidebar">
+    <div class="sidebar-header">
+      <h3>✨ 定制申请材料</h3>
+      <button onclick="closeSidebar()">✕</button>
+    </div>
+    <div class="sidebar-tabs">
+      <button class="stab active" onclick="switchSTab('resume')">简历亮点</button>
+      <button class="stab" onclick="switchSTab('coverletter')">求职信</button>
+      <button class="stab" onclick="switchSTab('prompt')">AI提示词</button>
+    </div>
+    <div id="sidebar-body"></div>
+    <div class="sidebar-actions">
+      <button onclick="copySidebar()">📋 复制</button>
+      <button onclick="downloadSidebar()">⬇ 下载</button>
+    </div>
+  </div>
+
+  <!-- Profile 弹窗 -->
+  <div class="modal-overlay" id="profile-overlay" onclick="closeProfile()" style="display:none"></div>
+  <div class="profile-modal" id="profile-modal" style="display:none">
+    <div class="profile-header">
+      <h2>⚙️ 我的信息</h2>
+      <button onclick="closeProfile()">✕</button>
+    </div>
+    <div class="profile-body">
+      <label>姓名</label>
+      <input type="text" id="p-name" placeholder="Your name" />
+      <label>最高学历</label>
+      <input type="text" id="p-edu1" placeholder="Degree, Major, University (Year)" />
+      <label>本科</label>
+      <input type="text" id="p-edu2" placeholder="Degree, Major, University (Year)" />
+      <label>研究/实习经历（简述）</label>
+      <textarea id="p-exp" rows="3" placeholder="Role — Company (brief description)"></textarea>
+      <label>技能</label>
+      <input type="text" id="p-skills" placeholder="Python, SQL, 机器学习, 数据分析…" />
+      <label>求职意向方向（按 Enter 添加标签）</label>
+      <div class="tags-input-wrap">
+        <div class="tags-display" id="tags-display"></div>
+        <input type="text" id="tags-input" placeholder="输入方向后按 Enter" onkeydown="addTag(event)" />
+      </div>
+      <hr style="margin:1rem 0;border-color:#eee"/>
+      <label>📄 简历原文（粘贴）</label>
+      <textarea id="p-resume" rows="5" placeholder="粘贴你的简历全文，生成材料时会用到"></textarea>
+      <label>✍️ 求职信原文（粘贴）</label>
+      <textarea id="p-coverletter" rows="4" placeholder="粘贴你之前写过的求职信（可选）"></textarea>
+    </div>
+    <div class="profile-footer">
+      <button class="btn-save" onclick="saveProfile()">保存</button>
+    </div>
+  </div>
+
+  <!-- Toast 提示 -->
+  <div class="toast" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
