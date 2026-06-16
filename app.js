@@ -265,6 +265,10 @@ function applyFilters() {
       if (currentNavTab === 'internet' && job.companyType !== '互联网大厂') return false;
       if (currentNavTab === 'finance' && job.companyType !== '外资投行&咨询') return false;
       if (currentNavTab === 'state' && !job.companyType?.includes('国有') && !job.companyType?.includes('央企')) return false;
+      if (currentNavTab === 'consumer' && !job.companyType?.includes('消费') && !job.companyType?.includes('餐饮')) return false;
+      if (currentNavTab === 'mfg' && !job.companyType?.includes('制造')) return false;
+      if (currentNavTab === 'health' && !job.companyType?.includes('医疗')) return false;
+      if (currentNavTab === 'other' && !job.companyType?.includes('其他外企')) return false;
     }
     const matchSearch = !search ||
       job.company.toLowerCase().includes(search) ||
