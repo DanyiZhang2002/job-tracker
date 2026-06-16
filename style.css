@@ -178,6 +178,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica
 .tier-badge.A { background: linear-gradient(135deg, #667eea, #764ba2); color: white; }
 .new-badge { background: #ff6b35; color: white; border-radius: 8px; padding: 0.15rem 0.5rem; font-size: 0.65rem; font-weight: 700; }
 
+.card-position-en {
+  font-size: 11px;
+  color: #94a3b8;
+  margin-top: 2px;
+  margin-bottom: 4px;
+  font-style: italic;
+  letter-spacing: 0.01em;
+}
+
 .card-position { font-size: 1rem; font-weight: 600; color: #1a1a2e; margin-bottom: 0.5rem; }
 .card-meta { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.7rem; }
 .card-meta span { font-size: 0.78rem; color: #666; }
