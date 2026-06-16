@@ -34,6 +34,42 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica
 .section-badge.other { background: #eee; color: #666; }
 .section-badge.internet { background: linear-gradient(135deg, #11998e, #38ef7d); color: white; }
 
+/* 国央企分区标记 */
+.section-badge.state-bank { background: linear-gradient(135deg, #c62828, #e53935); color: white; }
+.section-badge.state-sec  { background: linear-gradient(135deg, #1565c0, #1976d2); color: white; }
+.section-badge.state-ins  { background: linear-gradient(135deg, #283593, #3949ab); color: white; }
+.section-badge.state-tech { background: linear-gradient(135deg, #00695c, #00897b); color: white; }
+.section-badge.state-energy { background: linear-gradient(135deg, #e65100, #f57c00); color: white; }
+.section-badge.state-mfg  { background: linear-gradient(135deg, #4527a0, #7b1fa2); color: white; }
+.section-badge.state-cons { background: linear-gradient(135deg, #2e7d32, #388e3c); color: white; }
+.section-badge.state-infra { background: linear-gradient(135deg, #4e342e, #6d4c41); color: white; }
+
+/* 主分类Tab */
+.main-tabs {
+  display: flex;
+  gap: 4px;
+  padding: 0 1.5rem;
+  margin-bottom: 0;
+  border-bottom: 2px solid rgba(255,255,255,0.15);
+}
+.main-tab {
+  padding: 10px 24px;
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.2s;
+}
+.main-tab:hover { color: white; }
+.main-tab.active {
+  color: white;
+  border-bottom-color: #f8d56b;
+}
+
 /* 子分类 */
 .sub-section-header {
   display: flex;
