@@ -1,9 +1,4631 @@
 {
   "lastUpdated": "2026-06-16",
-  "note": "✅ realData:true 为实时抓取岗位；🔗 realData:false 为官网直达入口",
-  "scrapedCount": 0,
+  "note": "✅ realData:true 为实时抓取；🔗 realData:false 为官网直达",
+  "scrapedCount": 149,
   "staticCount": 17,
   "jobs": [
+    {
+      "id": 2001,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "豆包大模型应用算法工程师-Data AML",
+      "category": [
+        "AI算法"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：豆包大模型应用算法工程师-Data AML",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.614877",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2002,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "搜索策略产品工程师-抖音（抖音产品工程师人才计划）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：搜索策略产品工程师-抖音（抖音产品工程师人才计划）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.635101",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2003,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "营销专员-懂车帝",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：营销专员-懂车帝",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.654824",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2004,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "基础策略产品经理-懂车帝",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：基础策略产品经理-懂车帝",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.674846",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2005,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "数据科学-TikTok",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：数据科学-TikTok",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.694444",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2006,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "数据科学（Full Service）-TikTok Shop",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：数据科学（Full Service）-TikTok Shop",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.714145",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2007,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "AI产品经理-TRAE",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：AI产品经理-TRAE",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.733142",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2008,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "后端开发工程师-飞书办公套件",
+      "category": [
+        "后端开发"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：后端开发工程师-飞书办公套件",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.752258",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2009,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "策略产品工程师-抖音游戏（抖音产品工程师人才计划）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：策略产品工程师-抖音游戏（抖音产品工程师人才计划）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.773759",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2010,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "产品运营-广告业务",
+      "category": [
+        "策略运营",
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：产品运营-广告业务",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.792664",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2011,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "AI互动策略运营经理-直播（抖音产品工程师人才计划）",
+      "category": [
+        "策略运营",
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：AI互动策略运营经理-直播（抖音产品工程师人才计划）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.813888",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2012,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "AI互动产品运营经理-直播",
+      "category": [
+        "策略运营",
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：AI互动产品运营经理-直播",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.833090",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2013,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "抖音资讯策略运营经理-抖音",
+      "category": [
+        "策略运营"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：抖音资讯策略运营经理-抖音",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.852631",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2014,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "游戏化产品工程师-抖音（抖音产品工程师人才计划）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：游戏化产品工程师-抖音（抖音产品工程师人才计划）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.871200",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2015,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "算法工程师-今日头条",
+      "category": [
+        "AI算法"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：算法工程师-今日头条",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:35.890819",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2016,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 算法工程师",
+      "category": [
+        "AI算法"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | 算法工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.425345",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2017,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 技术美术-AIGC方向（27届）",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | 技术美术-AIGC方向（27届）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.444117",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2018,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 大数据工程师-武汉",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：社招 | 大数据工程师-武汉",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.463364",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2019,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 腾讯云智私有化运维工程师工程师-西安/武汉(西安)",
+      "category": [
+        "运维工程师"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：社招 | 腾讯云智私有化运维工程师工程师-西安/武汉(西安)",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.483454",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2020,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 游戏策划",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | 游戏策划",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.504946",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2021,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | WorldModel 游戏AI综合项目管理",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | WorldModel 游戏AI综合项目管理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.526019",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2022,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 招聘HR实习岗（27、28届）",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | 招聘HR实习岗（27、28届）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.545569",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2023,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 腾讯微信事业群视频搜索实习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：实习 | 腾讯微信事业群视频搜索实习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.565466",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2026,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 图像识别",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：社招 | 图像识别",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.625698",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2027,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 多模态数据处理专项",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：社招 | 多模态数据处理专项",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.644896",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2028,
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 数据挖掘",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "腾讯2026校招岗位：社招 | 数据挖掘",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/138",
+      "tags": [
+        "腾讯",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:47.662946",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2030,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.593657",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2031,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.615894",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2032,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.638703",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2033,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.662219",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2034,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.703035",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2035,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.725469",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2036,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.806061",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2037,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.829342",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2038,
+      "company": "阿里巴巴",
+      "logo": "🛒",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "阿里巴巴2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2461",
+      "tags": [
+        "阿里巴巴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:26:58.850550",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2039,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | 产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.246958",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2042,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理提前批（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理提前批（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.304925",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2044,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理实习生（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理实习生（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.341433",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2049,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理实习（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理实习（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.434490",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2050,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.452732",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2051,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 初级产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | 初级产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:10.471762",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2054,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.084852",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2055,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.105201",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2056,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.126421",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2057,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.146745",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2058,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.182923",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2059,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.203215",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2060,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.280158",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2061,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.300652",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2062,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:21.320254",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2063,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.091071",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2064,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.113555",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2065,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.133809",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2066,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.157555",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2067,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.193558",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2068,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.214291",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2069,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.303124",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2070,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.324220",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2071,
+      "company": "百度",
+      "logo": "🔍",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "百度2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/109",
+      "tags": [
+        "百度",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:32.344887",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2072,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:42.900611",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2073,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:42.920312",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2074,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:42.940026",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2075,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:42.959871",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2076,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:42.996118",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2077,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:43.016720",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2078,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:43.093266",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2079,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:43.117931",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2080,
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "小红书2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/3001",
+      "tags": [
+        "小红书",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:43.141237",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2081,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:53.929659",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2082,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:53.951145",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2083,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:53.971688",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2084,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:53.993038",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2085,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:54.029682",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2086,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:54.051303",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2087,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:54.129012",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2088,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:54.150812",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2089,
+      "company": "京东",
+      "logo": "🛍️",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "京东2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/568",
+      "tags": [
+        "京东",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:27:54.171469",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2090,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.794011",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2091,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.814168",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2092,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.834346",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2093,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.854388",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2094,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.890041",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2095,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.909782",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2096,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:04.985268",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2097,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:05.012298",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2098,
+      "company": "网易",
+      "logo": "🎮",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "网易2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/369",
+      "tags": [
+        "网易",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:05.033624",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2099,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.014980",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2100,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.034913",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2101,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.054916",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2102,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.074661",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2103,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.110629",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2104,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.132847",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2105,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.215214",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2106,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.235404",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2107,
+      "company": "滴滴",
+      "logo": "🚖",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "滴滴2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1559",
+      "tags": [
+        "滴滴",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:16.255239",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2108,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.863457",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2109,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.882655",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2110,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.902127",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2111,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.921576",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2112,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.955598",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2113,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:26.975020",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2114,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:27.050138",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2115,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:27.070142",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2116,
+      "company": "谷歌",
+      "logo": "🔎",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "谷歌2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/144",
+      "tags": [
+        "谷歌",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:27.090146",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2117,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.659778",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2118,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.679270",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2119,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.698748",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2120,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.717891",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2121,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.753176",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2122,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.772635",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2123,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.850512",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2124,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.870818",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2125,
+      "company": "微软",
+      "logo": "🪟",
+      "tier": "S",
+      "companyType": "外资科技",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "微软2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/21",
+      "tags": [
+        "微软",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:37.891165",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2126,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:48.951977",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2127,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:48.972909",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2128,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:48.992348",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2129,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.015583",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2130,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.054601",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2131,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.075571",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2132,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.155235",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2133,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.178356",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2134,
+      "company": "高盛",
+      "logo": "🏛️",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "高盛2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1021",
+      "tags": [
+        "高盛",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:49.199046",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2135,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:59.960460",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2136,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:28:59.980355",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2137,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.000097",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2138,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.020091",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2139,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.055589",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2140,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.080190",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2141,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.157258",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2142,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.179169",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2143,
+      "company": "摩根大通",
+      "logo": "🏦",
+      "tier": "S",
+      "companyType": "外资投行",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "摩根大通2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/423",
+      "tags": [
+        "摩根大通",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:00.199404",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2144,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.438111",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2145,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.458969",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2146,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.480169",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2147,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.500081",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2148,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.537092",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2149,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.558066",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2150,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.635735",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2151,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.658790",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2152,
+      "company": "麦肯锡",
+      "logo": "🎯",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "麦肯锡2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1022",
+      "tags": [
+        "麦肯锡",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:11.679915",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2153,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.229414",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2154,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.248804",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2155,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.268897",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2156,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.308924",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2157,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.345073",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2158,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.365793",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2159,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.439955",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2160,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.460558",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2161,
+      "company": "BCG",
+      "logo": "📊",
+      "tier": "S",
+      "companyType": "战略咨询",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "BCG2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/1023",
+      "tags": [
+        "BCG",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "scraped_at": "2026-06-16T04:29:26.480805",
+      "source": "nowcoder-enterprise"
+    },
     {
       "id": 101,
       "company": "字节跳动",
