@@ -5,6 +5,16 @@ let userProfile = JSON.parse(localStorage.getItem('user_profile') || '{}');
 let userTags = JSON.parse(localStorage.getItem('user_tags') || '[]');
 let currentJob = null;
 let currentSTab = 'resume';
+let currentMainTab = 'private'; // 'private' | 'state'
+
+// ====== MAIN TAB SWITCH ======
+async function switchMainTab(tab) {
+  currentMainTab = tab;
+  document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(`mtab-${tab}`).classList.add('active');
+  await loadJobs();
+  showPage('jobs');
+}
 
 // ====== INIT ======
 async function init() {
@@ -14,7 +24,8 @@ async function init() {
 
 async function loadJobs() {
   try {
-    const r = await fetch(`data/jobs.json?v=${Date.now()}`);
+    const file = currentMainTab === 'state' ? 'data/state_jobs.json' : 'data/jobs.json';
+    const r = await fetch(`${file}?v=${Date.now()}`);
     const data = await r.json();
     allJobs = data.jobs;
     document.getElementById('total-count').textContent = `${allJobs.length} 个岗位`;
@@ -27,6 +38,17 @@ async function loadJobs() {
 
 // ====== RENDER JOBS ======
 // 公司类型分区配置
+const STATE_SECTIONS = [
+  { key: '国有銀行', label: '🏦 国有大行', badge: 'state-bank' },
+  { key: '国有证券', label: '📈 国有证券', badge: 'state-sec' },
+  { key: '国有保险', label: '🛡️ 国有保险', badge: 'state-ins' },
+  { key: '央企（通信/科技）', label: '📡 通信技术央企', badge: 'state-tech' },
+  { key: '央企（能源）', label: '⚡ 能源央企', badge: 'state-energy' },
+  { key: '央企（航空/制造）', label: '✈️ 航空制造央企', badge: 'state-mfg' },
+  { key: '央企（消费/地产）', label: '🌿 消费地产央企', badge: 'state-cons' },
+  { key: '央企（交通/基建）', label: '🚄 交通基建央企', badge: 'state-infra' },
+];
+
 const COMPANY_SECTIONS = [
   { key: '互联网大厂', label: '📱 互联网大厂', badge: 'internet' },
   { key: '外资投行&咨询', label: '🏛️ 外资投行 & 咨询', badge: 'foreign' },
@@ -58,7 +80,8 @@ function renderJobs(jobs) {
   }
 
   let html = '';
-  COMPANY_SECTIONS.forEach(section => {
+  const sections = currentMainTab === 'state' ? STATE_SECTIONS : COMPANY_SECTIONS;
+  sections.forEach(section => {
     const group = jobs.filter(j => (j.companyType || '其他') === section.key);
     if (!group.length) return;
 
