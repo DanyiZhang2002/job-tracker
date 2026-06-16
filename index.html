@@ -19,7 +19,12 @@
         <button class="profile-btn" onclick="openProfile()">⚙️ 我的信息</button>
       </div>
     </div>
-    <!-- 主页面Tab -->
+    <!-- 主分类Tab -->
+    <div class="main-tabs">
+      <button class="main-tab active" id="mtab-private" onclick="switchMainTab('private')">🏢 互联网 & 外企</button>
+      <button class="main-tab" id="mtab-state" onclick="switchMainTab('state')">🏛️ 国央企</button>
+    </div>
+    <!-- 子页面Tab -->
     <div class="page-tabs">
       <button class="page-tab active" id="tab-jobs" onclick="showPage('jobs')">🔍 找岗位</button>
       <button class="page-tab" id="tab-applied" onclick="showPage('applied')">📋 已投递 <span class="applied-badge" id="applied-badge" style="display:none">0</span></button>
