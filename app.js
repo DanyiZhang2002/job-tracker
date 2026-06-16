@@ -34,6 +34,14 @@ const COMPANY_SECTIONS = [
   { key: '其他', label: '📋 其他', badge: 'other' },
 ];
 
+// 外资投行&咨询内部子分类
+const FOREIGN_SUB_SECTIONS = [
+  { key: '投行', label: '🏛️ 投行（Investment Banking）', cats: ['投行'] },
+  { key: '和咨询', label: '🎯 战略和咨询（MBB & Big4）', cats: ['咨询'] },
+  { key: '金融其他', label: '💹 金融 & 其他', cats: ['金融', '财务'] },
+  { key: '数据技术', label: '🤖 数据 & 技术', cats: ['数据科学', 'AI', '后端开发'] },
+];
+
 // 互联网大厂内部子分类
 const INTERNET_SUB_SECTIONS = [
   { key: '技术开发', label: '🖥️ 技术开发', cats: ['后端开发', '前端开发'] },
@@ -87,6 +95,26 @@ function renderJobs(jobs) {
           </div>
           <div class="cards-grid">${rest.map(makeCard).join('')}</div>
         `;
+      }
+    } else if (section.key === '外资投行&咨询') {
+      FOREIGN_SUB_SECTIONS.forEach(sub => {
+        const subGroup = group.filter(j =>
+          j.category && j.category.some(c => sub.cats.includes(c))
+        );
+        if (!subGroup.length) return;
+        html += `
+          <div class="sub-section-header">
+            <span class="sub-section-label">${sub.label}</span>
+            <span class="sub-section-count">${subGroup.length} 个岗位</span>
+          </div>
+          <div class="cards-grid">${subGroup.map(makeCard).join('')}</div>
+        `;
+      });
+      const allFCats = FOREIGN_SUB_SECTIONS.flatMap(s => s.cats);
+      const restF = group.filter(j => !j.category || !j.category.some(c => allFCats.includes(c)));
+      if (restF.length) {
+        html += `<div class="sub-section-header"><span class="sub-section-label">📋 其他</span><span class="sub-section-count">${restF.length} 个岗位</span></div>
+        <div class="cards-grid">${restF.map(makeCard).join('')}</div>`;
       }
     } else {
       html += `<div class="cards-grid">${group.map(makeCard).join('')}</div>`;
