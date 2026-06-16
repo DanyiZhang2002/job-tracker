@@ -74,6 +74,17 @@ const COMPANY_SECTIONS = [
   { key: '互联网大厂', label: '📱 互联网大厂', badge: 'internet' },
   { key: '外资投行&咨询', label: '🏛️ 外资投行 & 咨询', badge: 'foreign' },
   { key: '国内金融&财务', label: '💰 国内金融 & 财务', badge: 'finance' },
+  { key: '消费（美妆）', label: '💄 消费（美妆）', badge: 'beauty' },
+  { key: '消费（快消）', label: '🧴 消费（快消）', badge: 'fmcg' },
+  { key: '消费（运动）', label: '👟 消费（运动）', badge: 'sports' },
+  { key: '消费（奢侈品）', label: '💎 消费（奢侈品）', badge: 'luxury' },
+  { key: '制造（汽车）', label: '🚗 制造（汽车）', badge: 'auto' },
+  { key: '制造（工业）', label: '🏭 制造（工业）', badge: 'industrial' },
+  { key: '制造（能源化工）', label: '⚡ 制造（能源化工）', badge: 'energy-mfg' },
+  { key: '医疗（医药）', label: '💊 医疗（医药）', badge: 'pharma' },
+  { key: '医疗（器械）', label: '🔬 医疗（器械）', badge: 'device' },
+  { key: '其他外企（物流）', label: '📦 物流', badge: 'logistics' },
+  { key: '其他外企（餐饮零售）', label: '🍔 餐饮零售', badge: 'food' },
   { key: '其他', label: '📋 其他', badge: 'other' },
 ];
 
