@@ -53,15 +53,8 @@ COMPANIES = [
     ("阿迪达斯", "4224", "⚽", "A", "消费（运动）", "https://www.nowcoder.com/enterprise/4224"),
     # 其他外企（餐饮零售）
     ("星巴克",   "4271", "☕", "A", "其他外企（餐饮零售）", "https://www.nowcoder.com/enterprise/4271"),
-    # 制造（汽车）
-    ("比亚迪",   "157130", "🚗", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/157130"),
-    ("特斯拉",   "3512",   "⚡", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/3512"),
-    ("华为",     "239",    "📱", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/239"),
-    # 制造（工业）
-    ("西门子",   "719",    "🏭", "S", "制造（工业）", "https://www.nowcoder.com/enterprise/719"),
-    ("博世",     "1751",   "🔧", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/1751"),
-    ("施耐德电气","2415",  "⚡", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/2415"),
-    ("ABB中国",  "7398",   "🔌", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/7398"),
+    # 制造业公司在牛客上无真实校招岗位（全是题库/课程），已从抓取列表移除
+    # 如需添加制造业，请直接写入jobs.json官网直达卡片
 ]
 
 # 岗位分类映射
