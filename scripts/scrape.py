@@ -214,6 +214,7 @@ async def scrape_nowcoder_enterprise(page, company_name, enterprise_id, logo, ti
                     ))
         else:
             # 什么都没抓到，生成官网直达条目
+            global NEXT_ID
             print(f"  ⚠️ {company_name} 未抓到岗位信息，生成官网直达")
             jobs.append({
                 "id": NEXT_ID + 1,
@@ -238,7 +239,6 @@ async def scrape_nowcoder_enterprise(page, company_name, enterprise_id, logo, ti
                 "scraped_at": datetime.now().isoformat(),
                 "source": "fallback"
             })
-            global NEXT_ID
             NEXT_ID += 1
 
     except Exception as e:
