@@ -38,11 +38,21 @@ COMPANIES = [
     ("麦肯锡", "1022", "🎯", "S", "战略咨询",   "https://www.mckinsey.com/cn/careers"),
     ("BCG",    "1023", "📊", "S", "战略咨询",   "https://careers.bcg.com/students"),
     # 国有证券
-    ("中信证券", "2623", "📈", "S", "国有证券", "https://campus.citics.com"),
-    ("招商证券", "2452", "💹", "S", "国有证券", "https://campus.cmschina.com"),
-    ("华泰证券", "1023", "🏦", "A", "国有证券", "https://campus.htsc.com.cn"),
-    ("国泰海通", "2344", "📊", "A", "国有证券", "https://www.gtjasecurities.com.cn/campus"),
-    ("中金公司", "7906", "🌟", "S", "国有证券", "https://campus.cicc.com.cn"),
+    ("中信证券", "2623", "📈", "S", "国有证券", "https://www.nowcoder.com/enterprise/2623"),
+    ("招商证券", "2452", "💹", "S", "国有证券", "https://www.nowcoder.com/enterprise/2452"),
+    ("华泰证券", "1023", "🏦", "A", "国有证券", "https://www.nowcoder.com/enterprise/1023"),
+    ("国泰海通", "2344", "📊", "A", "国有证券", "https://www.nowcoder.com/enterprise/2344"),
+    ("中金公司", "7906", "🌟", "S", "国有证券", "https://www.nowcoder.com/enterprise/7906"),
+    # 消费（美妆）
+    ("雅诗兰黛", "4409", "💄", "S", "消费（美妆）", "https://www.nowcoder.com/enterprise/4409"),
+    ("欧莱雅",   "2426", "🌸", "S", "消费（美妆）", "https://www.nowcoder.com/enterprise/2426"),
+    # 消费（快消）
+    ("宝洁",     "1517", "🧴", "S", "消费（快消）", "https://www.nowcoder.com/enterprise/1517"),
+    ("联合利华", "2755", "🌿", "S", "消费（快消）", "https://www.nowcoder.com/enterprise/2755"),
+    # 消费（运动）
+    ("阿迪达斯", "4224", "⚽", "A", "消费（运动）", "https://www.nowcoder.com/enterprise/4224"),
+    # 其他外企（餐饮零售）
+    ("星巴克",   "4271", "☕", "A", "其他外企（餐饮零售）", "https://www.nowcoder.com/enterprise/4271"),
 ]
 
 # 岗位分类映射
