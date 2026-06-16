@@ -37,6 +37,12 @@ COMPANIES = [
     ("摩根大通","423", "🏦", "S", "外资投行",   "https://careers.jpmorgan.com/global/en/students"),
     ("麦肯锡", "1022", "🎯", "S", "战略咨询",   "https://www.mckinsey.com/cn/careers"),
     ("BCG",    "1023", "📊", "S", "战略咨询",   "https://careers.bcg.com/students"),
+    # 国有证券
+    ("中信证券", "2623", "📈", "S", "国有证券", "https://campus.citics.com"),
+    ("招商证券", "2452", "💹", "S", "国有证券", "https://campus.cmschina.com"),
+    ("华泰证券", "1023", "🏦", "A", "国有证券", "https://campus.htsc.com.cn"),
+    ("国泰海通", "2344", "📊", "A", "国有证券", "https://www.gtjasecurities.com.cn/campus"),
+    ("中金公司", "7906", "🌟", "S", "国有证券", "https://campus.cicc.com.cn"),
 ]
 
 # 岗位分类映射
