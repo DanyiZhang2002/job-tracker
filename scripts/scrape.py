@@ -53,6 +53,15 @@ COMPANIES = [
     ("阿迪达斯", "4224", "⚽", "A", "消费（运动）", "https://www.nowcoder.com/enterprise/4224"),
     # 其他外企（餐饮零售）
     ("星巴克",   "4271", "☕", "A", "其他外企（餐饮零售）", "https://www.nowcoder.com/enterprise/4271"),
+    # 制造（汽车）
+    ("比亚迪",   "157130", "🚗", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/157130"),
+    ("特斯拉",   "3512",   "⚡", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/3512"),
+    ("华为",     "239",    "📱", "S", "制造（汽车）", "https://www.nowcoder.com/enterprise/239"),
+    # 制造（工业）
+    ("西门子",   "719",    "🏭", "S", "制造（工业）", "https://www.nowcoder.com/enterprise/719"),
+    ("博世",     "1751",   "🔧", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/1751"),
+    ("施耐德电气","2415",  "⚡", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/2415"),
+    ("ABB中国",  "7398",   "🔌", "A", "制造（工业）", "https://www.nowcoder.com/enterprise/7398"),
 ]
 
 # 岗位分类映射
