@@ -33,6 +33,30 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica
 .section-badge.a-tier { background: linear-gradient(135deg, #667eea, #764ba2); color: white; }
 .section-badge.other { background: #eee; color: #666; }
 .section-badge.internet { background: linear-gradient(135deg, #11998e, #38ef7d); color: white; }
+
+/* 子分类 */
+.sub-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  margin: 16px 0 8px 0;
+  border-left: 3px solid #11998e;
+  background: #f8fffe;
+  border-radius: 0 8px 8px 0;
+}
+.sub-section-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+.sub-section-count {
+  font-size: 0.8rem;
+  color: #666;
+  background: #e8f5f3;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
 .section-badge.foreign { background: linear-gradient(135deg, #1a1a2e, #16213e); color: #e2b96f; border: 1px solid #e2b96f; }
 .section-badge.finance { background: linear-gradient(135deg, #c94b4b, #4b134f); color: white; }
 
