@@ -3,87 +3,99 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>秋招岗位追踪器 | AI · 数据科学 · 财务 · 金融 · 咨询</title>
+  <title>秋招岗位追踪器</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
+  <!-- 顶部Header -->
   <div class="header">
-    <div class="header-content">
-      <div class="header-title">
-        <h1>🎯 秋招岗位追踪器</h1>
-        <p class="header-sub">AI · 数据科学 · 财务 · 金融 · 咨询 · 策略运营 · 每日自动更新</p>
-      </div>
-      <div class="header-stats">
-        <div class="stat-pill" id="total-count">— 个岗位</div>
-        <div class="stat-pill" id="update-time">更新中…</div>
-        <button class="profile-btn" onclick="openProfile()">⚙️ 我的信息</button>
-      </div>
+    <div class="header-left">
+      <h1>🎯 秋招岗位追踪器</h1>
+      <p class="header-sub">每日自动更新 · 全平台覆盖</p>
     </div>
-    <!-- 主分类Tab -->
-    <div class="main-tabs">
-      <button class="main-tab active" id="mtab-private" onclick="switchMainTab('private')">🏢 互联网 & 外企</button>
-      <button class="main-tab" id="mtab-state" onclick="switchMainTab('state')">🏛️ 国央企</button>
-    </div>
-    <!-- 子页面Tab -->
-    <div class="page-tabs">
-      <button class="page-tab active" id="tab-jobs" onclick="showPage('jobs')">🔍 找岗位</button>
-      <button class="page-tab" id="tab-applied" onclick="showPage('applied')">📋 已投递 <span class="applied-badge" id="applied-badge" style="display:none">0</span></button>
+    <div class="header-right">
+      <input type="text" id="search-input" placeholder="🔍 搜索岗位、公司、技能…" oninput="applyFilters()" />
+      <div class="stat-pill" id="total-count">— 个岗位</div>
+      <div class="stat-pill" id="update-time">更新中…</div>
+      <button class="profile-btn" onclick="openProfile()">⚙️ 我的信息</button>
     </div>
   </div>
 
-  <!-- 筛选栏 -->
-  <div class="filters" id="filters-bar">
-    <input type="text" id="search-input" placeholder="搜索公司、岗位、技能…" oninput="applyFilters()" />
-    <select id="category-filter" onchange="applyFilters()">
-      <option value="">全部方向</option>
-      <option value="AI">AI / 算法</option>
-      <option value="数据科学">数据科学</option>
-      <option value="数据产品">数据产品</option>
-      <option value="策略运营">策略运营</option>
-      <option value="AI">AI / 算法</option>
-      <option value="财务">财务</option>
-      <option value="金融">金融</option>
-      <option value="咨询">咨询</option>
-      <option value="审计">审计</option>
-      <option value="税务">税务</option>
-    </select>
-    <select id="company-filter" onchange="applyFilters()">
-      <option value="">全部公司</option>
-      <option value="字节跳动">字节跳动</option>
-      <option value="腾讯">腾讯</option>
-      <option value="阿里巴巴">阿里巴巴</option>
-      <option value="美团">美团</option>
-      <option value="快手">快手</option>
-      <option value="百度">百度</option>
-      <option value="小红书">小红书</option>
-    </select>
-    <select id="tier-filter" onchange="applyFilters()">
-      <option value="">全部tier</option>
-      <option value="S">S级大厂</option>
-      <option value="A">A级大厂</option>
-    </select>
-    <label class="checkbox-label">
-      <input type="checkbox" id="new-only" onchange="applyFilters()" />
-      只看新岗位
-    </label>
-  </div>
+  <!-- 主体：左侧导航 + 右侧内容 -->
+  <div class="layout">
 
-  <!-- 主内容区 -->
-  <div id="main-content">
-    <!-- 找岗位页面 -->
-    <div id="page-jobs">
-      <div id="cards-container"></div>
-    </div>
+    <!-- 左侧导航栏 -->
+    <nav class="sidebar-nav">
 
-    <!-- 已投递页面 -->
-    <div id="page-applied" style="display:none">
-      <div class="applied-empty" id="applied-empty">
-        <div style="font-size:3rem">📭</div>
-        <p>还没有投递记录</p>
-        <p style="color:#999;font-size:0.9rem">在岗位卡片点击"投递此岗位"即可追踪进度</p>
+      <div class="nav-section">
+        <div class="nav-group-title">📱 互联网 & 科技</div>
+        <button class="nav-item active" data-tab="internet" data-cat="AI" onclick="navClick(this)">🤖 AI & 数据</button>
+        <button class="nav-item" data-tab="internet" data-cat="tech" onclick="navClick(this)">🖥️ 技术开发</button>
+        <button class="nav-item" data-tab="internet" data-cat="product" onclick="navClick(this)">📱 产品</button>
+        <button class="nav-item" data-tab="internet" data-cat="ops" onclick="navClick(this)">📣 运营 & 商务</button>
+        <button class="nav-item" data-tab="internet" data-cat="all" onclick="navClick(this)">· 全部互联网</button>
       </div>
-      <div id="applied-list"></div>
-    </div>
+
+      <div class="nav-section">
+        <div class="nav-group-title">🏦 金融 & 投行</div>
+        <button class="nav-item" data-tab="finance" data-cat="ib" onclick="navClick(this)">🏛️ 外资投行</button>
+        <button class="nav-item" data-tab="finance" data-cat="consulting" onclick="navClick(this)">🎯 战略咨询</button>
+        <button class="nav-item" data-tab="finance" data-cat="bigfour" onclick="navClick(this)">📋 四大会计师</button>
+        <button class="nav-item" data-tab="finance" data-cat="quant" onclick="navClick(this)">📊 量化 & 数据</button>
+        <button class="nav-item" data-tab="finance" data-cat="all" onclick="navClick(this)">· 全部金融外企</button>
+      </div>
+
+      <div class="nav-section">
+        <div class="nav-group-title">🏛️ 国央企</div>
+        <button class="nav-item" data-tab="state" data-cat="bank" onclick="navClick(this)">🏦 国有银行</button>
+        <button class="nav-item" data-tab="state" data-cat="sec" onclick="navClick(this)">📈 国有证券</button>
+        <button class="nav-item" data-tab="state" data-cat="ins" onclick="navClick(this)">🛡️ 国有保险</button>
+        <button class="nav-item" data-tab="state" data-cat="央企" onclick="navClick(this)">🏗️ 其他央企</button>
+        <button class="nav-item" data-tab="state" data-cat="all" onclick="navClick(this)">· 全部国央企</button>
+      </div>
+
+      <div class="nav-section">
+        <div class="nav-group-title">我的</div>
+        <button class="nav-item" data-tab="applied" data-cat="all" onclick="navClick(this)">📋 已投递 <span class="applied-badge" id="applied-badge" style="display:none">0</span></button>
+      </div>
+
+    </nav>
+
+    <!-- 右侧内容区 -->
+    <main class="main-content">
+
+      <!-- 筛选栏 -->
+      <div class="filters" id="filters-bar">
+        <select id="new-filter" onchange="applyFilters()">
+          <option value="">全部时间</option>
+          <option value="new">🆕 只看新岗位</option>
+        </select>
+        <select id="location-filter" onchange="applyFilters()">
+          <option value="">全部城市</option>
+          <option value="北京">北京</option>
+          <option value="上海">上海</option>
+          <option value="深圳">深圳</option>
+          <option value="杭州">杭州</option>
+        </select>
+      </div>
+
+      <!-- 找岗位 -->
+      <div id="page-jobs">
+        <div id="cards-container"></div>
+      </div>
+
+      <!-- 已投递 -->
+      <div id="page-applied" style="display:none">
+        <div class="applied-empty" id="applied-empty">
+          <div style="font-size:3rem">📭</div>
+          <p>还没有投递记录</p>
+          <p style="color:#999;font-size:0.9rem">在岗位卡片点击"投递此岗位"即可追踪进度</p>
+        </div>
+        <div id="applied-list"></div>
+      </div>
+
+    </main>
   </div>
 
   <!-- 岗位详情弹窗 -->
@@ -145,10 +157,7 @@
     </div>
   </div>
 
-  <!-- Toast 提示 -->
   <div class="toast" id="toast"></div>
-
   <script src="app.js"></script>
 </body>
 </html>
-<!-- cache-bust:v1781580043 -->
