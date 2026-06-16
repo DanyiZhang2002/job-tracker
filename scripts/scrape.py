@@ -40,7 +40,8 @@ def make_job(company, logo, tier, company_type, position, category,
         "tags": tags if isinstance(tags, list) else [tags],
         "isNew": True,
         "postedDate": TODAY,
-        "source": "playwright-scrape"
+        "source": "playwright-scrape",
+        "scraped_at": datetime.now().isoformat(),
     }
 
 
@@ -49,38 +50,51 @@ async def scrape_bytedance(page):
     print("🔍 抓取字节跳动...")
     jobs = []
     try:
-        await page.goto("https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=", timeout=30000)
-        await page.wait_for_load_state("networkidle", timeout=15000)
-        await page.wait_for_timeout(3000)
+        await page.goto(
+            "https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+            timeout=30000,
+        )
+        await page.wait_for_timeout(6000)
 
-        # 抓取岗位列表
-        items = await page.query_selector_all(".position-item, [class*='position-card'], [class*='job-item']")
-        print(f"  字节: 找到 {len(items)} 个元素")
+        title = await page.title()
+        print(f"  字节页面标题: {title}")
+
+        # 尝试多个选择器，取第一个有内容的
+        items = []
+        for selector in ['.position-item-name', '[class*="name--"]', '.job-name', 'h3', '.career-title']:
+            items = await page.query_selector_all(selector)
+            if items:
+                break
+
+        print(f"  字节: 找到 {len(items)} 个元素 (选择器: {selector})")
 
         for item in items[:10]:
             try:
-                title = await item.query_selector("[class*='title'], h3, h4")
-                location = await item.query_selector("[class*='location'], [class*='city']")
-                dept = await item.query_selector("[class*='department'], [class*='category']")
+                title_text = await item.inner_text()
+                title_text = title_text.strip()
 
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "全国"
-                dept_text = await dept.inner_text() if dept else ""
+                if not title_text:
+                    continue
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="字节跳动",
-                        logo="🎵",
-                        tier="S",
-                        company_type="互联网大厂",
-                        position=title_text.strip(),
-                        category=[dept_text.strip() or "技术"],
-                        location=location_text.strip(),
-                        description=f"字节跳动校招岗位：{title_text.strip()}，部门：{dept_text.strip()}",
-                        requirements=["以官网岗位要求为准"],
-                        apply_url="https://jobs.bytedance.com/campus",
-                        tags=["字节跳动", "校招", dept_text.strip()]
-                    ))
+                # 尝试提取位置和部门
+                location_el = await item.query_selector("[class*='location'], [class*='city']")
+                dept_el = await item.query_selector("[class*='department'], [class*='category']")
+                location_text = await location_el.inner_text() if location_el else "全国"
+                dept_text = await dept_el.inner_text() if dept_el else ""
+
+                jobs.append(make_job(
+                    company="字节跳动",
+                    logo="🎵",
+                    tier="S",
+                    company_type="互联网大厂",
+                    position=title_text,
+                    category=[dept_text.strip() or "技术"],
+                    location=location_text.strip(),
+                    description=f"字节跳动校招岗位：{title_text}，部门：{dept_text.strip()}",
+                    requirements=["以官网岗位要求为准"],
+                    apply_url="https://jobs.bytedance.com/campus",
+                    tags=["字节跳动", "校招", dept_text.strip()]
+                ))
             except Exception as e:
                 print(f"  字节单条解析失败: {e}")
                 continue
@@ -95,36 +109,46 @@ async def scrape_tencent(page):
     jobs = []
     try:
         await page.goto("https://join.qq.com/post.html?type=2", timeout=30000)
-        await page.wait_for_load_state("networkidle", timeout=15000)
-        await page.wait_for_timeout(3000)
+        await page.wait_for_timeout(5000)
 
-        items = await page.query_selector_all(".recruit-item, [class*='position-item'], .item-bd")
-        print(f"  腾讯: 找到 {len(items)} 个元素")
+        title = await page.title()
+        print(f"  腾讯页面标题: {title}")
+
+        # 尝试多个选择器，取第一个有内容的
+        items = []
+        for selector in ['.recruit-name', '.job-name', '[class*="recruit-title"]', 'h3', '.title']:
+            items = await page.query_selector_all(selector)
+            if items:
+                break
+
+        print(f"  腾讯: 找到 {len(items)} 个元素 (选择器: {selector})")
 
         for item in items[:10]:
             try:
-                title = await item.query_selector("h3, h4, .recruit-title, [class*='title']")
-                location = await item.query_selector("[class*='location'], [class*='place']")
-                dept = await item.query_selector("[class*='type'], [class*='category']")
+                title_text = await item.inner_text()
+                title_text = title_text.strip()
 
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "全国"
-                dept_text = await dept.inner_text() if dept else ""
+                if not title_text:
+                    continue
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="腾讯",
-                        logo="🐧",
-                        tier="S",
-                        company_type="互联网大厂",
-                        position=title_text.strip(),
-                        category=[dept_text.strip() or "技术"],
-                        location=location_text.strip(),
-                        description=f"腾讯校招岗位：{title_text.strip()}",
-                        requirements=["以官网岗位要求为准"],
-                        apply_url="https://join.qq.com/post.html?type=2",
-                        tags=["腾讯", "校招"]
-                    ))
+                location_el = await item.query_selector("[class*='location'], [class*='place']")
+                dept_el = await item.query_selector("[class*='type'], [class*='category']")
+                location_text = await location_el.inner_text() if location_el else "全国"
+                dept_text = await dept_el.inner_text() if dept_el else ""
+
+                jobs.append(make_job(
+                    company="腾讯",
+                    logo="🐧",
+                    tier="S",
+                    company_type="互联网大厂",
+                    position=title_text,
+                    category=[dept_text.strip() or "技术"],
+                    location=location_text.strip(),
+                    description=f"腾讯校招岗位：{title_text.strip()}",
+                    requirements=["以官网岗位要求为准"],
+                    apply_url="https://join.qq.com/post.html?type=2",
+                    tags=["腾讯", "校招"]
+                ))
             except Exception as e:
                 continue
     except Exception as e:
@@ -138,33 +162,44 @@ async def scrape_alibaba(page):
     jobs = []
     try:
         await page.goto("https://talent.alibaba.com/campus/position-list?lang=zh", timeout=30000)
-        await page.wait_for_load_state("networkidle", timeout=15000)
-        await page.wait_for_timeout(4000)
+        await page.wait_for_timeout(6000)
 
-        items = await page.query_selector_all("[class*='position-item'], [class*='job-card'], .position-card")
-        print(f"  阿里: 找到 {len(items)} 个元素")
+        title = await page.title()
+        print(f"  阿里页面标题: {title}")
+
+        # 尝试多个选择器，取第一个有内容的
+        items = []
+        for selector in ['.position-title', '[class*="positionTitle"]', '[class*="position-name"]', 'h3']:
+            items = await page.query_selector_all(selector)
+            if items:
+                break
+
+        print(f"  阿里: 找到 {len(items)} 个元素 (选择器: {selector})")
 
         for item in items[:10]:
             try:
-                title = await item.query_selector("[class*='title'], h3, h4")
-                location = await item.query_selector("[class*='location'], [class*='city']")
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "全国"
+                title_text = await item.inner_text()
+                title_text = title_text.strip()
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="阿里巴巴",
-                        logo="🛒",
-                        tier="S",
-                        company_type="互联网大厂",
-                        position=title_text.strip(),
-                        category=["技术/产品/运营"],
-                        location=location_text.strip(),
-                        description=f"阿里巴巴校招岗位：{title_text.strip()}",
-                        requirements=["以官网岗位要求为准"],
-                        apply_url="https://talent.alibaba.com/campus/home",
-                        tags=["阿里巴巴", "校招"]
-                    ))
+                if not title_text:
+                    continue
+
+                location_el = await item.query_selector("[class*='location'], [class*='city']")
+                location_text = await location_el.inner_text() if location_el else "全国"
+
+                jobs.append(make_job(
+                    company="阿里巴巴",
+                    logo="🛒",
+                    tier="S",
+                    company_type="互联网大厂",
+                    position=title_text,
+                    category=["技术/产品/运营"],
+                    location=location_text.strip(),
+                    description=f"阿里巴巴校招岗位：{title_text.strip()}",
+                    requirements=["以官网岗位要求为准"],
+                    apply_url="https://talent.alibaba.com/campus/home",
+                    tags=["阿里巴巴", "校招"]
+                ))
             except Exception as e:
                 continue
     except Exception as e:
@@ -178,33 +213,50 @@ async def scrape_meituan(page):
     jobs = []
     try:
         await page.goto("https://campus.meituan.com/recruit-info", timeout=30000)
-        await page.wait_for_load_state("networkidle", timeout=15000)
-        await page.wait_for_timeout(3000)
+        await page.wait_for_timeout(5000)
 
-        items = await page.query_selector_all("[class*='position'], [class*='job-item'], .recruit-item")
-        print(f"  美团: 找到 {len(items)} 个元素")
+        # 先等岗位列表出现
+        try:
+            await page.wait_for_selector('.job-name, .position-name, [class*="job-title"]', timeout=8000)
+        except Exception:
+            pass
+
+        title = await page.title()
+        print(f"  美团页面标题: {title}")
+
+        # 尝试多个选择器，取第一个有内容的
+        items = []
+        for selector in ['.job-name', '.position-name', '[class*="job-title"]', '[class*="positionName"]']:
+            items = await page.query_selector_all(selector)
+            if items:
+                break
+
+        print(f"  美团: 找到 {len(items)} 个元素 (选择器: {selector})")
 
         for item in items[:10]:
             try:
-                title = await item.query_selector("[class*='title'], h3, h4")
-                location = await item.query_selector("[class*='location'], [class*='city']")
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "全国"
+                title_text = await item.inner_text()
+                title_text = title_text.strip()
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="美团",
-                        logo="🛵",
-                        tier="S",
-                        company_type="互联网大厂",
-                        position=title_text.strip(),
-                        category=["技术/产品/运营/数据"],
-                        location=location_text.strip(),
-                        description=f"美团校招岗位：{title_text.strip()}",
-                        requirements=["以官网岗位要求为准"],
-                        apply_url="https://campus.meituan.com/recruit-info",
-                        tags=["美团", "校招"]
-                    ))
+                if not title_text:
+                    continue
+
+                location_el = await item.query_selector("[class*='location'], [class*='city']")
+                location_text = await location_el.inner_text() if location_el else "全国"
+
+                jobs.append(make_job(
+                    company="美团",
+                    logo="🛵",
+                    tier="S",
+                    company_type="互联网大厂",
+                    position=title_text,
+                    category=["技术/产品/运营/数据"],
+                    location=location_text.strip(),
+                    description=f"美团校招岗位：{title_text.strip()}",
+                    requirements=["以官网岗位要求为准"],
+                    apply_url="https://campus.meituan.com/recruit-info",
+                    tags=["美团", "校招"]
+                ))
             except Exception as e:
                 continue
     except Exception as e:
@@ -213,7 +265,7 @@ async def scrape_meituan(page):
 
 
 async def scrape_51job_estee_lauder(page):
-    """抓取雅诗兰黛51job校招页（已验证可抓）"""
+    """抓取雅诗兰黛51job校招页（逻辑保持不变）"""
     print("🔍 抓取雅诗兰黛（51job）...")
     jobs = []
     try:
@@ -221,33 +273,38 @@ async def scrape_51job_estee_lauder(page):
         await page.wait_for_load_state("networkidle", timeout=15000)
         await page.wait_for_timeout(2000)
 
+        title = await page.title()
+        print(f"  雅诗兰黛页面标题: {title}")
+
         items = await page.query_selector_all(".j-job-card, .job-item, [class*='position']")
         print(f"  雅诗兰黛: 找到 {len(items)} 个元素")
 
         for item in items[:15]:
             try:
-                title = await item.query_selector("[class*='title'], h3, h4, .job-name")
-                location = await item.query_selector("[class*='location'], [class*='city'], .job-area")
-                desc = await item.query_selector("[class*='desc'], [class*='intro'], p")
+                title_el = await item.query_selector("[class*='title'], h3, h4, .job-name")
+                location_el = await item.query_selector("[class*='location'], [class*='city'], .job-area")
+                desc_el = await item.query_selector("[class*='desc'], [class*='intro'], p")
 
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "上海"
-                desc_text = await desc.inner_text() if desc else ""
+                title_text = await title_el.inner_text() if title_el else ""
+                location_text = await location_el.inner_text() if location_el else "上海"
+                desc_text = await desc_el.inner_text() if desc_el else ""
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="雅诗兰黛集团",
-                        logo="💄",
-                        tier="S",
-                        company_type="消费（美妆）",
-                        position=title_text.strip(),
-                        category=["品牌市场", "电商运营", "供应链"],
-                        location=location_text.strip() or "上海",
-                        description=desc_text.strip() or f"雅诗兰黛校招：{title_text.strip()}",
-                        requirements=["本科及以上学历", "热爱美妆行业"],
-                        apply_url="https://campus.51job.com/elccampus",
-                        tags=["雅诗兰黛", "美妆", "校招"]
-                    ))
+                if not title_text.strip():
+                    continue
+
+                jobs.append(make_job(
+                    company="雅诗兰黛集团",
+                    logo="💄",
+                    tier="S",
+                    company_type="消费（美妆）",
+                    position=title_text.strip(),
+                    category=["品牌市场", "电商运营", "供应链"],
+                    location=location_text.strip() or "上海",
+                    description=desc_text.strip() or f"雅诗兰黛校招：{title_text.strip()}",
+                    requirements=["本科及以上学历", "热爱美妆行业"],
+                    apply_url="https://campus.51job.com/elccampus",
+                    tags=["雅诗兰黛", "美妆", "校招"]
+                ))
             except Exception as e:
                 continue
     except Exception as e:
@@ -261,33 +318,44 @@ async def scrape_mckinsey(page):
     jobs = []
     try:
         await page.goto("https://www.mckinsey.com/cn/careers/search-jobs#experienced=false", timeout=30000)
-        await page.wait_for_load_state("networkidle", timeout=15000)
-        await page.wait_for_timeout(4000)
+        await page.wait_for_timeout(5000)
 
-        items = await page.query_selector_all("[class*='job'], [class*='position'], article")
-        print(f"  麦肯锡: 找到 {len(items)} 个元素")
+        title = await page.title()
+        print(f"  麦肯锡页面标题: {title}")
+
+        # 尝试多个选择器，取第一个有内容的
+        items = []
+        for selector in ['[class*="job-title"]', 'h3 a', '.search-result-item h3', '[data-component="JobTitle"]']:
+            items = await page.query_selector_all(selector)
+            if items:
+                break
+
+        print(f"  麦肯锡: 找到 {len(items)} 个元素 (选择器: {selector})")
 
         for item in items[:10]:
             try:
-                title = await item.query_selector("h2, h3, h4, [class*='title']")
-                location = await item.query_selector("[class*='location'], [class*='city']")
-                title_text = await title.inner_text() if title else ""
-                location_text = await location.inner_text() if location else "北京/上海"
+                title_text = await item.inner_text()
+                title_text = title_text.strip()
 
-                if title_text.strip():
-                    jobs.append(make_job(
-                        company="麦肯锡",
-                        logo="🎯",
-                        tier="S",
-                        company_type="战略咨询",
-                        position=title_text.strip(),
-                        category=["战略咨询"],
-                        location=location_text.strip(),
-                        description=f"麦肯锡校招：{title_text.strip()}",
-                        requirements=["以官网岗位要求为准"],
-                        apply_url="https://www.mckinsey.com/cn/careers",
-                        tags=["麦肯锡", "咨询", "MBB", "校招"]
-                    ))
+                if not title_text:
+                    continue
+
+                location_el = await item.query_selector("[class*='location'], [class*='city']")
+                location_text = await location_el.inner_text() if location_el else "北京/上海"
+
+                jobs.append(make_job(
+                    company="麦肯锡",
+                    logo="🎯",
+                    tier="S",
+                    company_type="战略咨询",
+                    position=title_text,
+                    category=["战略咨询"],
+                    location=location_text.strip(),
+                    description=f"麦肯锡校招：{title_text.strip()}",
+                    requirements=["以官网岗位要求为准"],
+                    apply_url="https://www.mckinsey.com/cn/careers",
+                    tags=["麦肯锡", "咨询", "MBB", "校招"]
+                ))
             except Exception as e:
                 continue
     except Exception as e:
@@ -318,14 +386,25 @@ async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True,
-            args=["--no-sandbox", "--disable-setuid-sandbox",
-                  "--disable-dev-shm-usage", "--disable-gpu"]
+            args=[
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-gpu",
+                "--disable-blink-features=AutomationControlled",
+                "--disable-extensions",
+                "--ignore-certificate-errors",
+            ],
         )
         context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080}
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            viewport={"width": 1920, "height": 1080},
+            java_script_enabled=True,
+            ignore_https_errors=True,
         )
         page = await context.new_page()
+        # 隐藏自动化特征
+        await page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
         # 逐一抓取各平台
         scrapers = [
@@ -365,7 +444,7 @@ async def main():
         "note": "✅ realData:true 为实时抓取岗位；🔗 realData:false 为官网直达入口",
         "scrapedCount": len(scraped_jobs),
         "staticCount": len(static_jobs),
-        "jobs": unique_jobs
+        "jobs": unique_jobs,
     }
 
     with open("data/jobs.json", "w", encoding="utf-8") as f:
