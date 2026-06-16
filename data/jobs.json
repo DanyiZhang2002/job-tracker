@@ -1,72 +1,124 @@
 {
   "lastUpdated": "2026-06-16",
-  "note": "标注 realData:true 的岗位来自实时抓取；其余为官网直达入口，请点击前往官网查看最新招聘信息",
+  "note": "✅ realData:true 为实时抓取岗位；🔗 realData:false 为官网直达入口",
+  "scrapedCount": 9,
+  "staticCount": 17,
   "jobs": [
     {
-      "id": 1,
-      "company": "雅诗兰黛集团",
-      "logo": "💄",
+      "id": 1001,
+      "company": "美团",
+      "logo": "🛵",
       "tier": "S",
-      "companyType": "消费（美妆）",
-      "position": "品牌市场部暑期实习生",
-      "category": ["市场营销", "品牌"],
-      "location": "上海",
-      "type": "暑期实习",
-      "season": "2026暑期",
-      "deadline": "招满即止",
+      "companyType": "互联网大厂",
+      "position": "筛选",
+      "category": [
+        "技术/产品/运营/数据"
+      ],
+      "location": "所在海外国家/地区\n沙特\n巴西\n阿联酋\n科威特\n卡塔尔\n巴林\n阿曼",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "接受行业顶尖领袖带教，深度洞察美妆趋势；快速掌握美妆行业核心方法论；有机会独立操盘大型市场项目，为消费者打造沉浸式品牌体验。热爱美妆行业，思维开放，具备创造力和故事叙述能力，具备超级执行力。",
-      "requirements": ["本科及以上学历", "热爱美妆行业", "具备创造力和故事叙述能力", "具备超级执行力"],
-      "applyUrl": "https://xyz.51job.com/external/apply.aspx?jobid=170563920&ctmid=9172787",
-      "tags": ["美妆", "品牌市场", "实习"],
+      "description": "美团校招岗位：筛选",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://campus.meituan.com/recruit-info",
+      "tags": [
+        "美团",
+        "校招"
+      ],
       "isNew": true,
       "postedDate": "2026-06-16",
-      "source": "campus.51job.com/elccampus"
+      "source": "playwright-scrape"
     },
     {
-      "id": 2,
-      "company": "雅诗兰黛集团",
-      "logo": "💄",
+      "id": 1004,
+      "company": "美团",
+      "logo": "🛵",
       "tier": "S",
-      "companyType": "消费（美妆）",
-      "position": "品牌电商部暑期实习生",
-      "category": ["电商运营", "数据分析"],
-      "location": "上海",
-      "type": "暑期实习",
-      "season": "2026暑期",
-      "deadline": "招满即止",
+      "companyType": "互联网大厂",
+      "position": "商家運營實習生",
+      "category": [
+        "技术/产品/运营/数据"
+      ],
+      "location": "香港特别行政区",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "接受行业顶尖领袖带教，把握电商前沿脉搏；快速掌握美妆电商运营制胜秘诀；学习精细化运营各线上渠道，策划并执行大型促销活动；深入洞察消费者体验与市场趋势，从大数据中精准掘金。热爱美妆行业，具备商业敏感度，对数据高度敏感。",
-      "requirements": ["本科及以上学历", "热爱美妆行业", "具备商业敏感度", "对数据高度敏感"],
-      "applyUrl": "https://xyz.51job.com/external/apply.aspx?jobid=170563924&ctmid=9172787",
-      "tags": ["美妆", "电商运营", "数据分析", "实习"],
+      "description": "美团校招岗位：商家運營實習生",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://campus.meituan.com/recruit-info",
+      "tags": [
+        "美团",
+        "校招"
+      ],
       "isNew": true,
       "postedDate": "2026-06-16",
-      "source": "campus.51job.com/elccampus"
+      "source": "playwright-scrape"
     },
     {
-      "id": 3,
-      "company": "雅诗兰黛集团",
-      "logo": "💄",
+      "id": 1007,
+      "company": "美团",
+      "logo": "🛵",
       "tier": "S",
-      "companyType": "消费（美妆）",
-      "position": "GSM全球采购暑期实习生",
-      "category": ["供应链", "采购"],
-      "location": "上海",
-      "type": "暑期实习",
-      "season": "2026暑期",
-      "deadline": "招满即止",
+      "companyType": "互联网大厂",
+      "position": "岗位职责",
+      "category": [
+        "技术/产品/运营/数据"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "全面了解GSM及采购相关核心职能，包括供应商准入、绩效管理与风险控制；在全球供应链环境中与跨职能、跨地区团队高效协作；系统学习采购及供应商管理的流程、工具与方法论；深入理解亚太区域产品端到端供应链。",
-      "requirements": ["本科/硕士/博士", "工程、科学、商业、供应链或相关专业", "良好的逻辑分析、沟通及跨方协作能力", "良好的中英文沟通能力"],
-      "applyUrl": "https://xyz.51job.com/external/apply.aspx?jobid=170563923&ctmid=9172787",
-      "tags": ["供应链", "全球采购", "实习"],
+      "description": "美团校招岗位：岗位职责",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://campus.meituan.com/recruit-info",
+      "tags": [
+        "美团",
+        "校招"
+      ],
       "isNew": true,
       "postedDate": "2026-06-16",
-      "source": "campus.51job.com/elccampus"
+      "source": "playwright-scrape"
+    },
+    {
+      "id": 1008,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实时交互视频世界模型实习生",
+      "category": [
+        "技术/产品/运营/数据"
+      ],
+      "location": "北京市、深圳市",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团校招岗位：实时交互视频世界模型实习生",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://campus.meituan.com/recruit-info",
+      "tags": [
+        "美团",
+        "校招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-06-16",
+      "source": "playwright-scrape"
     },
     {
       "id": 101,
@@ -75,7 +127,14 @@
       "tier": "S",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["AI算法", "数据科学", "产品经理", "策略运营", "后端开发", "前端开发"],
+      "category": [
+        "AI算法",
+        "数据科学",
+        "产品经理",
+        "策略运营",
+        "后端开发",
+        "前端开发"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -83,9 +142,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "字节跳动2026校园招聘，覆盖算法、数据、产品、运营、技术等多个方向。请前往官网查看最新岗位及截止日期。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://jobs.bytedance.com/campus",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -96,7 +161,13 @@
       "tier": "S",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["AI算法", "数据科学", "产品经理", "策略运营", "后端开发"],
+      "category": [
+        "AI算法",
+        "数据科学",
+        "产品经理",
+        "策略运营",
+        "后端开发"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -104,9 +175,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "腾讯2026校园招聘，覆盖技术、产品、运营、市场等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://join.qq.com",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -117,7 +194,13 @@
       "tier": "S",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["AI算法", "数据科学", "产品经理", "策略运营", "后端开发"],
+      "category": [
+        "AI算法",
+        "数据科学",
+        "产品经理",
+        "策略运营",
+        "后端开发"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -125,9 +208,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "阿里巴巴2026校园招聘，覆盖技术、产品、运营、数据等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://talent.alibaba.com/campus/home",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -138,7 +227,13 @@
       "tier": "S",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["数据科学", "产品经理", "策略运营", "后端开发", "算法"],
+      "category": [
+        "数据科学",
+        "产品经理",
+        "策略运营",
+        "后端开发",
+        "算法"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -146,9 +241,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "美团2026校园招聘，覆盖技术、产品、运营、数据等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://campus.meituan.com",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -159,7 +260,12 @@
       "tier": "A",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["AI算法", "数据科学", "产品经理", "策略运营"],
+      "category": [
+        "AI算法",
+        "数据科学",
+        "产品经理",
+        "策略运营"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -167,9 +273,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "快手2026校园招聘，覆盖技术、产品、运营、数据等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://campus.kuaishou.cn",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -180,7 +292,12 @@
       "tier": "A",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["AI算法", "数据科学", "产品经理", "后端开发"],
+      "category": [
+        "AI算法",
+        "数据科学",
+        "产品经理",
+        "后端开发"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -188,9 +305,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "百度2026校园招聘，覆盖AI、技术、产品、数据等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://talent.baidu.com/external/baidu/campus.html",
-      "tags": ["互联网", "AI", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "AI",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -201,7 +325,12 @@
       "tier": "A",
       "companyType": "互联网大厂",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["数据科学", "产品经理", "策略运营", "内容运营"],
+      "category": [
+        "数据科学",
+        "产品经理",
+        "策略运营",
+        "内容运营"
+      ],
       "location": "上海",
       "type": "校招",
       "season": "2026秋招",
@@ -209,9 +338,15 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "小红书2026校园招聘，覆盖产品、运营、数据、技术等多个方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://job.xiaohongshu.com/campus",
-      "tags": ["互联网", "校招", "官网直达"],
+      "tags": [
+        "互联网",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -222,7 +357,12 @@
       "tier": "S",
       "companyType": "外资投行",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["投资银行", "销售交易", "量化研究", "数据分析"],
+      "category": [
+        "投资银行",
+        "销售交易",
+        "量化研究",
+        "数据分析"
+      ],
       "location": "北京/上海/香港",
       "type": "校招",
       "season": "2026秋招",
@@ -230,9 +370,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "高盛2026校园招聘，覆盖投行、销售交易、资产管理、量化研究等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://www.goldmansachs.com/careers/students/programs/asia-pacific/",
-      "tags": ["投行", "金融", "校招", "官网直达"],
+      "tags": [
+        "投行",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -243,7 +390,12 @@
       "tier": "S",
       "companyType": "外资投行",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["投资银行", "量化研究", "数据分析", "科技"],
+      "category": [
+        "投资银行",
+        "量化研究",
+        "数据分析",
+        "科技"
+      ],
       "location": "北京/上海/香港",
       "type": "校招",
       "season": "2026秋招",
@@ -251,9 +403,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "摩根大通2026校园招聘，覆盖投行、量化、科技、运营等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://careers.jpmorgan.com/global/en/students",
-      "tags": ["投行", "金融", "校招", "官网直达"],
+      "tags": [
+        "投行",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -264,7 +423,11 @@
       "tier": "S",
       "companyType": "战略咨询",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["战略咨询", "数据分析", "商业分析"],
+      "category": [
+        "战略咨询",
+        "数据分析",
+        "商业分析"
+      ],
       "location": "北京/上海",
       "type": "校招",
       "season": "2026秋招",
@@ -272,9 +435,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "麦肯锡2026校园招聘，主要招聘Business Analyst（BA）。请前往官网查看最新岗位及申请截止日期。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://www.mckinsey.com/cn/careers",
-      "tags": ["咨询", "MBB", "校招", "官网直达"],
+      "tags": [
+        "咨询",
+        "MBB",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -285,7 +455,11 @@
       "tier": "S",
       "companyType": "战略咨询",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["战略咨询", "数字化咨询", "数据分析"],
+      "category": [
+        "战略咨询",
+        "数字化咨询",
+        "数据分析"
+      ],
       "location": "北京/上海",
       "type": "校招",
       "season": "2026秋招",
@@ -293,9 +467,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "BCG波士顿咨询2026校园招聘，覆盖咨询、数字化、数据科学等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://careers.bcg.com/students",
-      "tags": ["咨询", "MBB", "校招", "官网直达"],
+      "tags": [
+        "咨询",
+        "MBB",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -306,7 +487,12 @@
       "tier": "A",
       "companyType": "四大会计师",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["审计", "财务咨询", "风险咨询", "数据分析"],
+      "category": [
+        "审计",
+        "财务咨询",
+        "风险咨询",
+        "数据分析"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -314,9 +500,17 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "德勤2026校园招聘，覆盖审计、咨询、税务、财务顾问等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://www2.deloitte.com/cn/zh/pages/careers/articles/campus-recruitment.html",
-      "tags": ["四大", "审计", "咨询", "校招", "官网直达"],
+      "tags": [
+        "四大",
+        "审计",
+        "咨询",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -327,7 +521,12 @@
       "tier": "A",
       "companyType": "四大会计师",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["审计", "财务咨询", "税务", "数据分析"],
+      "category": [
+        "审计",
+        "财务咨询",
+        "税务",
+        "数据分析"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -335,9 +534,17 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "普华永道2026校园招聘，覆盖审计、咨询、税务等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://www.pwccn.com/zh/careers/campus.html",
-      "tags": ["四大", "审计", "咨询", "校招", "官网直达"],
+      "tags": [
+        "四大",
+        "审计",
+        "咨询",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -348,7 +555,12 @@
       "tier": "S",
       "companyType": "国有银行",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["金融分析", "数据科学", "信息技术", "风险管理"],
+      "category": [
+        "金融分析",
+        "数据科学",
+        "信息技术",
+        "风险管理"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -356,9 +568,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "工商银行2026校园招聘，覆盖金融、科技、风险、运营等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://job.icbc.com.cn/campus/",
-      "tags": ["国有银行", "金融", "校招", "官网直达"],
+      "tags": [
+        "国有银行",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -369,7 +588,12 @@
       "tier": "S",
       "companyType": "国有银行",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["金融分析", "数据科学", "信息技术", "风险管理"],
+      "category": [
+        "金融分析",
+        "数据科学",
+        "信息技术",
+        "风险管理"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
@@ -377,9 +601,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "建设银行2026校园招聘，覆盖金融、科技、风险、运营等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://job.ccb.com/cn/campus/",
-      "tags": ["国有银行", "金融", "校招", "官网直达"],
+      "tags": [
+        "国有银行",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -390,7 +621,12 @@
       "tier": "S",
       "companyType": "国有证券",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["证券研究", "量化投资", "数据分析", "投资银行"],
+      "category": [
+        "证券研究",
+        "量化投资",
+        "数据分析",
+        "投资银行"
+      ],
       "location": "北京/上海",
       "type": "校招",
       "season": "2026秋招",
@@ -398,9 +634,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "中信证券2026校园招聘，覆盖研究、投行、量化、数据等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://campus.citics.com/",
-      "tags": ["证券", "金融", "校招", "官网直达"],
+      "tags": [
+        "证券",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     },
@@ -411,7 +654,11 @@
       "tier": "A",
       "companyType": "国有证券",
       "position": "官网直达 — 查看全部校招岗位",
-      "category": ["证券研究", "量化投资", "数据分析"],
+      "category": [
+        "证券研究",
+        "量化投资",
+        "数据分析"
+      ],
       "location": "深圳/上海/北京",
       "type": "校招",
       "season": "2026秋招",
@@ -419,9 +666,16 @@
       "headcount": "以官网为准",
       "realData": false,
       "description": "招商证券2026校园招聘，覆盖研究、投行、量化、科技等方向。请前往官网查看最新岗位。",
-      "requirements": ["以官网岗位要求为准"],
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
       "applyUrl": "https://campus.cmbchina.com/",
-      "tags": ["证券", "金融", "校招", "官网直达"],
+      "tags": [
+        "证券",
+        "金融",
+        "校招",
+        "官网直达"
+      ],
       "isNew": false,
       "postedDate": "2026-06-16"
     }
