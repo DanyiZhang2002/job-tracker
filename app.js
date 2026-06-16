@@ -239,8 +239,9 @@ const NAV_CAT_MAP = {
   'sports':   j => j.companyType === '消费（运动）',
   'luxury':   j => j.companyType === '消费（奢侈品）',
   // 制造工业
-  'auto':     j => j.companyType === '制造（汽车）',
-  'energy':   j => j.companyType === '制造（能源化工）',
+  'auto':        j => j.companyType === '制造（汽车）',
+  'industrial':   j => j.companyType === '制造（工业）',
+  'energy':       j => j.companyType === '制造（能源化工）',
   // 医疗健康
   'pharma':   j => j.companyType === '医疗（医药）',
   'device':   j => j.companyType === '医疗（器械）',
