@@ -32,6 +32,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica
 .section-badge.s-tier { background: linear-gradient(135deg, #ff6b35, #e94560); color: white; }
 .section-badge.a-tier { background: linear-gradient(135deg, #667eea, #764ba2); color: white; }
 .section-badge.other { background: #eee; color: #666; }
+.section-badge.internet { background: linear-gradient(135deg, #11998e, #38ef7d); color: white; }
+.section-badge.foreign { background: linear-gradient(135deg, #1a1a2e, #16213e); color: #e2b96f; border: 1px solid #e2b96f; }
+.section-badge.finance { background: linear-gradient(135deg, #c94b4b, #4b134f); color: white; }
 
 /* Cards Grid */
 .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.2rem; padding: 0.5rem 2rem 2rem; }
