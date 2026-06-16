@@ -213,33 +213,7 @@ async def scrape_nowcoder_enterprise(page, company_name, enterprise_id, logo, ti
                         tags=[company_name, "校招", "牛客"]
                     ))
         else:
-            # 什么都没抓到，生成官网直达条目
-            global NEXT_ID
-            print(f"  ⚠️ {company_name} 未抓到岗位信息，生成官网直达")
-            jobs.append({
-                "id": NEXT_ID + 1,
-                "company": company_name,
-                "logo": logo,
-                "tier": tier,
-                "companyType": company_type,
-                "position": "官网直达 — 查看全部校招岗位",
-                "category": ["校招"],
-                "location": "全国",
-                "type": "校招",
-                "season": "2026秋招",
-                "deadline": "以官网为准",
-                "headcount": "以官网为准",
-                "realData": False,
-                "description": f"{company_name}2026校园招聘，请前往官网查看最新岗位。",
-                "requirements": ["以官网岗位要求为准"],
-                "applyUrl": apply_url,
-                "tags": [company_name, "校招", "官网直达"],
-                "isNew": False,
-                "postedDate": TODAY,
-                "scraped_at": datetime.now().isoformat(),
-                "source": "fallback"
-            })
-            NEXT_ID += 1
+            print(f"  ⚠️ {company_name} 未抓到岗位信息，跳过")
 
     except Exception as e:
         print(f"  ❌ {company_name} 抓取失败: {e}")
