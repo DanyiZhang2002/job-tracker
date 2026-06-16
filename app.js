@@ -26,6 +26,14 @@ async function loadJobs() {
 }
 
 // ====== RENDER JOBS ======
+// 公司类型分区配置
+const COMPANY_SECTIONS = [
+  { key: '互联网大厂', label: '📱 互联网大厂', badge: 'internet' },
+  { key: '外资投行&咨询', label: '🏛️ 外资投行 & 咨询', badge: 'foreign' },
+  { key: '国内金融&财务', label: '💰 国内金融 & 财务', badge: 'finance' },
+  { key: '其他', label: '📋 其他', badge: 'other' },
+];
+
 function renderJobs(jobs) {
   const container = document.getElementById('cards-container');
   if (!jobs.length) {
@@ -33,36 +41,18 @@ function renderJobs(jobs) {
     return;
   }
 
-  const sTier = jobs.filter(j => j.tier === 'S');
-  const aTier = jobs.filter(j => j.tier === 'A');
-  const other = jobs.filter(j => j.tier !== 'S' && j.tier !== 'A');
-
   let html = '';
-
-  if (sTier.length) {
-    html += `<div class="section-header">
-      <span class="section-badge s-tier">🔥 S级大厂</span>
-      <span class="section-title"></span>
-      <span class="section-count">${sTier.length} 个岗位</span>
-    </div>
-    <div class="cards-grid">${sTier.map(makeCard).join('')}</div>`;
-  }
-  if (aTier.length) {
-    html += `<div class="section-header">
-      <span class="section-badge a-tier">⭐ A级大厂</span>
-      <span class="section-title"></span>
-      <span class="section-count">${aTier.length} 个岗位</span>
-    </div>
-    <div class="cards-grid">${aTier.map(makeCard).join('')}</div>`;
-  }
-  if (other.length) {
-    html += `<div class="section-header">
-      <span class="section-badge other">📋 其他</span>
-      <span class="section-title"></span>
-      <span class="section-count">${other.length} 个岗位</span>
-    </div>
-    <div class="cards-grid">${other.map(makeCard).join('')}</div>`;
-  }
+  COMPANY_SECTIONS.forEach(section => {
+    const group = jobs.filter(j => (j.companyType || '其他') === section.key);
+    if (!group.length) return;
+    html += `
+      <div class="section-header">
+        <span class="section-badge ${section.badge}">${section.label}</span>
+        <span class="section-count">${group.length} 个岗位</span>
+      </div>
+      <div class="cards-grid">${group.map(makeCard).join('')}</div>
+    `;
+  });
 
   container.innerHTML = html;
 }
