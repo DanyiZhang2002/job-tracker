@@ -37,6 +37,14 @@ COMPANIES = [
     ("摩根大通","423", "🏦", "S", "外资投行",   "https://careers.jpmorgan.com/global/en/students"),
     ("麦肯锡", "1022", "🎯", "S", "战略咨询",   "https://www.mckinsey.com/cn/careers"),
     ("BCG",    "1023", "📊", "S", "战略咨询",   "https://careers.bcg.com/students"),
+    # 工业制造（自动监控，开放时替换待开放卡片）
+    ("西门子",    "719",  "🏭", "A", "制造（工业）", "https://jobs.siemens.com/careers/china-students"),
+    ("博世",      "1205", "🔧", "A", "制造（工业）", "https://www.bosch.com.cn/careers/job-offers/"),
+    ("施耐德电气", "3521", "⚡", "A", "制造（工业）", "https://www.se.com/cn/zh/about-us/careers/"),
+    ("ABB中国",   "2089", "🏗️", "A", "制造（工业）", "https://careers.abb/china/zh/home"),
+    ("比亚迪",    "4690", "🚗", "S", "制造（汽车）", "https://job.byd.com/portal/mobile/school-home"),
+    ("特斯拉",    "3285", "⚡", "S", "制造（汽车）", "https://www.tesla.cn/careers"),
+    ("华为",      "1801", "📱", "S", "制造（汽车）", "https://career.huawei.com/reccampportal/campus4_index.html"),
     # 国有证券
     ("中信证券", "2623", "📈", "S", "国有证券", "https://www.nowcoder.com/enterprise/2623"),
     ("招商证券", "2452", "💹", "S", "国有证券", "https://www.nowcoder.com/enterprise/2452"),
