@@ -1,39 +1,64 @@
 // ====== STATE ======
 let allJobs = [];
+let privateJobs = [];
+let stateJobs = [];
 let appliedJobs = JSON.parse(localStorage.getItem('applied_jobs') || '[]');
 let userProfile = JSON.parse(localStorage.getItem('user_profile') || '{}');
 let userTags = JSON.parse(localStorage.getItem('user_tags') || '[]');
 let currentJob = null;
 let currentSTab = 'resume';
-let currentMainTab = 'private'; // 'private' | 'state'
+let currentNavTab = 'internet';
+let currentNavCat = 'AI';
 
-// ====== MAIN TAB SWITCH ======
-async function switchMainTab(tab) {
-  currentMainTab = tab;
-  document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
-  document.getElementById(`mtab-${tab}`).classList.add('active');
-  await loadJobs();
-  showPage('jobs');
+// ====== NAV CLICK ======
+async function navClick(el) {
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  el.classList.add('active');
+  const tab = el.dataset.tab;
+  const cat = el.dataset.cat;
+  currentNavTab = tab;
+  currentNavCat = cat;
+
+  if (tab === 'applied') {
+    document.getElementById('page-jobs').style.display = 'none';
+    document.getElementById('page-applied').style.display = 'block';
+    document.getElementById('filters-bar').style.display = 'none';
+    renderApplied();
+    return;
+  }
+
+  document.getElementById('page-jobs').style.display = 'block';
+  document.getElementById('page-applied').style.display = 'none';
+  document.getElementById('filters-bar').style.display = 'flex';
+
+  // 加载对应数据
+  if (tab === 'state') {
+    allJobs = stateJobs;
+  } else {
+    allJobs = privateJobs;
+  }
+  applyFilters();
 }
 
 // ====== INIT ======
 async function init() {
-  await loadJobs();
-  updateAppliedBadge();
-}
+  // 并行加载两个数据源
+  const [r1, r2] = await Promise.all([
+    fetch(`data/jobs.json?v=${Date.now()}`),
+    fetch(`data/state_jobs.json?v=${Date.now()}`)
+  ]);
+  const d1 = await r1.json();
+  const d2 = await r2.json();
+  privateJobs = d1.jobs;
+  stateJobs = d2.jobs;
+  allJobs = privateJobs;
 
-async function loadJobs() {
-  try {
-    const file = currentMainTab === 'state' ? 'data/state_jobs.json' : 'data/jobs.json';
-    const r = await fetch(`${file}?v=${Date.now()}`);
-    const data = await r.json();
-    allJobs = data.jobs;
-    document.getElementById('total-count').textContent = `${allJobs.length} 个岗位`;
-    document.getElementById('update-time').textContent = `更新于 ${data.lastUpdated}`;
-    renderJobs(allJobs);
-  } catch (e) {
-    document.getElementById('cards-container').innerHTML = '<div class="no-results"><div>⚠️</div><p>数据加载失败，请刷新重试</p></div>';
-  }
+  const total = privateJobs.length + stateJobs.length;
+  document.getElementById('total-count').textContent = `${total} 个岗位`;
+  document.getElementById('update-time').textContent = `更新于 ${d1.lastUpdated}`;
+
+  applyFilters();
+  updateAppliedBadge();
 }
 
 // ====== RENDER JOBS ======
@@ -80,7 +105,7 @@ function renderJobs(jobs) {
   }
 
   let html = '';
-  const sections = currentMainTab === 'state' ? STATE_SECTIONS : COMPANY_SECTIONS;
+  const sections = currentNavTab === 'state' ? STATE_SECTIONS : COMPANY_SECTIONS;
   sections.forEach(section => {
     const group = jobs.filter(j => (j.companyType || '其他') === section.key);
     if (!group.length) return;
@@ -195,25 +220,52 @@ function getDaysLeft(deadline) {
 }
 
 // ====== FILTERS ======
-function applyFilters() {
-  const search = document.getElementById('search-input').value.toLowerCase();
-  const category = document.getElementById('category-filter').value;
-  const company = document.getElementById('company-filter').value;
-  const tier = document.getElementById('tier-filter').value;
-  const newOnly = document.getElementById('new-only').checked;
+// 导航分类映射
+const NAV_CAT_MAP = {
+  // 互联网
+  'AI':      j => j.companyType === '互联网大厂' && j.category && j.category.some(c => ['AI','数据科学'].includes(c)),
+  'tech':    j => j.companyType === '互联网大厂' && j.category && j.category.some(c => ['后端开发','前端开发'].includes(c)),
+  'product': j => j.companyType === '互联网大厂' && j.category && j.category.some(c => ['数据产品'].includes(c)),
+  'ops':     j => j.companyType === '互联网大厂' && j.category && j.category.some(c => ['策略运营'].includes(c)),
+  // 金融
+  'ib':          j => j.companyType === '外资投行&咨询' && j.category && j.category.includes('投行'),
+  'consulting':  j => j.companyType === '外资投行&咨询' && j.category && j.category.includes('咨询') && ['麦肯锡','BCG波士顿咊询','贝恩咊询'].includes(j.company),
+  'bigfour':     j => j.companyType === '外资投行&咨询' && ['德勤','普华永道','毵马威','安永'].includes(j.company),
+  'quant':       j => j.companyType === '外资投行&咨询' && j.category && j.category.some(c => ['AI','数据科学'].includes(c)),
+  // 国央企
+  'bank':  j => j.companyType === '国有銀行',
+  'sec':   j => j.companyType === '国有证券',
+  'ins':   j => j.companyType === '国有保险',
+  '央企':  j => ['央企（通信/科技）','央企（能源）','央企（航空/制造）','央企（消费/地产）','央企（交通/基建）'].includes(j.companyType),
+};
 
-  const filtered = allJobs.filter(job => {
+function applyFilters() {
+  const search = (document.getElementById('search-input')?.value || '').toLowerCase();
+  const newOnly = document.getElementById('new-filter')?.value === 'new';
+  const location = document.getElementById('location-filter')?.value || '';
+
+  let filtered = allJobs.filter(job => {
+    // 导航分类筛选
+    if (currentNavCat !== 'all') {
+      const fn = NAV_CAT_MAP[currentNavCat];
+      if (fn && !fn(job)) return false;
+    } else {
+      // 全部：按tab区分互联网/金融/国央企
+      if (currentNavTab === 'internet' && job.companyType !== '互联网大厂') return false;
+      if (currentNavTab === 'finance' && job.companyType !== '外资投行&咨询') return false;
+      if (currentNavTab === 'state' && !job.companyType?.includes('国有') && !job.companyType?.includes('央企')) return false;
+    }
     const matchSearch = !search ||
       job.company.toLowerCase().includes(search) ||
       job.position.toLowerCase().includes(search) ||
-      job.tags.some(t => t.toLowerCase().includes(search));
-    const matchCategory = !category || job.category.includes(category);
-    const matchCompany = !company || job.company === company;
-    const matchTier = !tier || job.tier === tier;
+      (job.tags || []).some(t => t.toLowerCase().includes(search));
     const matchNew = !newOnly || job.isNew;
-    return matchSearch && matchCategory && matchCompany && matchTier && matchNew;
+    const matchLocation = !location || (job.location || '').includes(location);
+    return matchSearch && matchNew && matchLocation;
   });
 
+  // 更新展示数量
+  document.getElementById('total-count').textContent = `${filtered.length} 个岗位`;
   renderJobs(filtered);
 }
 
