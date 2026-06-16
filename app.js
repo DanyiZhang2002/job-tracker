@@ -34,6 +34,14 @@ const COMPANY_SECTIONS = [
   { key: '其他', label: '📋 其他', badge: 'other' },
 ];
 
+// 互联网大厂内部子分类
+const INTERNET_SUB_SECTIONS = [
+  { key: '技术开发', label: '🖥️ 技术开发', cats: ['后端开发', '前端开发'] },
+  { key: 'AI与数据', label: '🤖 AI & 数据', cats: ['AI', '数据科学'] },
+  { key: '产品', label: '📱 产品', cats: ['数据产品'] },
+  { key: '运营与商务', label: '📣 运营 & 商务', cats: ['策略运营'] },
+];
+
 function renderJobs(jobs) {
   const container = document.getElementById('cards-container');
   if (!jobs.length) {
@@ -45,13 +53,44 @@ function renderJobs(jobs) {
   COMPANY_SECTIONS.forEach(section => {
     const group = jobs.filter(j => (j.companyType || '其他') === section.key);
     if (!group.length) return;
-    html += `
-      <div class="section-header">
-        <span class="section-badge ${section.badge}">${section.label}</span>
-        <span class="section-count">${group.length} 个岗位</span>
-      </div>
-      <div class="cards-grid">${group.map(makeCard).join('')}</div>
-    `;
+
+    html += `<div class="section-header">
+      <span class="section-badge ${section.badge}">${section.label}</span>
+      <span class="section-count">${group.length} 个岗位</span>
+    </div>`;
+
+    if (section.key === '互联网大厂') {
+      // 互联网大厂内部按子分类渲染
+      INTERNET_SUB_SECTIONS.forEach(sub => {
+        const subGroup = group.filter(j =>
+          j.category && j.category.some(c => sub.cats.includes(c))
+        );
+        if (!subGroup.length) return;
+        html += `
+          <div class="sub-section-header">
+            <span class="sub-section-label">${sub.label}</span>
+            <span class="sub-section-count">${subGroup.length} 个岗位</span>
+          </div>
+          <div class="cards-grid">${subGroup.map(makeCard).join('')}</div>
+        `;
+      });
+      // 未归类的放到「其他方向」
+      const allCats = INTERNET_SUB_SECTIONS.flatMap(s => s.cats);
+      const rest = group.filter(j =>
+        !j.category || !j.category.some(c => allCats.includes(c))
+      );
+      if (rest.length) {
+        html += `
+          <div class="sub-section-header">
+            <span class="sub-section-label">📋 其他方向</span>
+            <span class="sub-section-count">${rest.length} 个岗位</span>
+          </div>
+          <div class="cards-grid">${rest.map(makeCard).join('')}</div>
+        `;
+      }
+    } else {
+      html += `<div class="cards-grid">${group.map(makeCard).join('')}</div>`;
+    }
   });
 
   container.innerHTML = html;
