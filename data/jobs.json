@@ -29,7 +29,8 @@
         "Python"
       ],
       "isNew": true,
-      "postedDate": "2026-08-04"
+      "postedDate": "2026-08-04",
+      "companyType": "互联网大厂"
     },
     {
       "id": 2,
@@ -58,7 +59,8 @@
         "增长"
       ],
       "isNew": true,
-      "postedDate": "2026-08-04"
+      "postedDate": "2026-08-04",
+      "companyType": "互联网大厂"
     },
     {
       "id": 3,
@@ -88,7 +90,8 @@
         "产品经理"
       ],
       "isNew": true,
-      "postedDate": "2026-08-04"
+      "postedDate": "2026-08-04",
+      "companyType": "互联网大厂"
     },
     {
       "id": 4,
@@ -117,7 +120,8 @@
         "Python"
       ],
       "isNew": false,
-      "postedDate": "2026-07-15"
+      "postedDate": "2026-07-15",
+      "companyType": "互联网大厂"
     },
     {
       "id": 5,
@@ -146,7 +150,8 @@
         "数据中台"
       ],
       "isNew": false,
-      "postedDate": "2026-07-15"
+      "postedDate": "2026-07-15",
+      "companyType": "互联网大厂"
     },
     {
       "id": 6,
@@ -176,7 +181,8 @@
         "深度学习"
       ],
       "isNew": true,
-      "postedDate": "2026-08-01"
+      "postedDate": "2026-08-01",
+      "companyType": "互联网大厂"
     },
     {
       "id": 7,
@@ -206,7 +212,8 @@
         "大模型"
       ],
       "isNew": true,
-      "postedDate": "2026-08-01"
+      "postedDate": "2026-08-01",
+      "companyType": "互联网大厂"
     },
     {
       "id": 8,
@@ -235,7 +242,8 @@
         "业务建模"
       ],
       "isNew": false,
-      "postedDate": "2026-07-29"
+      "postedDate": "2026-07-29",
+      "companyType": "互联网大厂"
     },
     {
       "id": 9,
@@ -265,7 +273,8 @@
         "数据驱动"
       ],
       "isNew": false,
-      "postedDate": "2026-07-29"
+      "postedDate": "2026-07-29",
+      "companyType": "互联网大厂"
     },
     {
       "id": 10,
@@ -294,7 +303,8 @@
         "SQL"
       ],
       "isNew": true,
-      "postedDate": "2026-08-10"
+      "postedDate": "2026-08-10",
+      "companyType": "互联网大厂"
     },
     {
       "id": 11,
@@ -323,7 +333,8 @@
         "深度学习"
       ],
       "isNew": true,
-      "postedDate": "2026-08-10"
+      "postedDate": "2026-08-10",
+      "companyType": "互联网大厂"
     },
     {
       "id": 12,
@@ -353,7 +364,8 @@
         "AI产品"
       ],
       "isNew": false,
-      "postedDate": "2026-07-20"
+      "postedDate": "2026-07-20",
+      "companyType": "互联网大厂"
     },
     {
       "id": 13,
@@ -383,7 +395,8 @@
         "广告"
       ],
       "isNew": false,
-      "postedDate": "2026-07-20"
+      "postedDate": "2026-07-20",
+      "companyType": "互联网大厂"
     },
     {
       "id": 14,
@@ -412,7 +425,8 @@
         "内容平台"
       ],
       "isNew": true,
-      "postedDate": "2026-08-12"
+      "postedDate": "2026-08-12",
+      "companyType": "互联网大厂"
     },
     {
       "id": 15,
@@ -441,7 +455,8 @@
         "数据驱动"
       ],
       "isNew": true,
-      "postedDate": "2026-08-12"
+      "postedDate": "2026-08-12",
+      "companyType": "互联网大厂"
     },
     {
       "id": 16,
@@ -449,18 +464,29 @@
       "logo": "🏦",
       "tier": "S",
       "position": "财务分析师（FP&A）",
-      "category": ["财务"],
+      "category": [
+        "财务"
+      ],
       "location": "上海/北京",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-09-30",
       "headcount": "若干",
-      "requirements": ["财务/会计/金融相关专业", "Excel/财务建模", "英语流利"],
+      "requirements": [
+        "财务/会计/金融相关专业",
+        "Excel/财务建模",
+        "英语流利"
+      ],
       "description": "负责财务规划与分析，支持业务决策，参与预算、预测及管理报告等工作。",
       "applyUrl": "https://www.goldmansachs.com/careers/students/",
-      "tags": ["财务", "FP&A", "金融建模"],
+      "tags": [
+        "财务",
+        "FP&A",
+        "金融建模"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-15"
+      "postedDate": "2026-08-15",
+      "companyType": "外资投行&咨询"
     },
     {
       "id": 17,
@@ -468,18 +494,30 @@
       "logo": "🏛️",
       "tier": "S",
       "position": "投资银行分析师",
-      "category": ["财务", "金融"],
+      "category": [
+        "财务",
+        "金融"
+      ],
       "location": "上海/香港",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-09-15",
       "headcount": "若干",
-      "requirements": ["金融/经济/数学相关专业", "财务建模", "英语优秀"],
+      "requirements": [
+        "金融/经济/数学相关专业",
+        "财务建模",
+        "英语优秀"
+      ],
       "description": "参与IPO、并购、债券发行等项目，协助完成估值建模和行业研究报告。",
       "applyUrl": "https://careers.jpmorgan.com/global/en/students",
-      "tags": ["投行", "并购", "财务建模"],
+      "tags": [
+        "投行",
+        "并购",
+        "财务建模"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-15"
+      "postedDate": "2026-08-15",
+      "companyType": "外资投行&咨询"
     },
     {
       "id": 18,
@@ -487,18 +525,30 @@
       "logo": "💼",
       "tier": "S",
       "position": "商业分析师（BA）",
-      "category": ["咨询", "财务"],
+      "category": [
+        "咨询",
+        "财务"
+      ],
       "location": "北京/上海/深圳",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-01",
       "headcount": "若干",
-      "requirements": ["本科及以上，顶尖院校优先", "强逻辑分析", "英语流利"],
+      "requirements": [
+        "本科及以上，顶尖院校优先",
+        "强逻辑分析",
+        "英语流利"
+      ],
       "description": "为各行业顶尖企业提供战略咨询，参与市场分析、财务建模和解决方案设计。",
       "applyUrl": "https://www.mckinsey.com/careers/students",
-      "tags": ["咨询", "战略", "商业分析"],
+      "tags": [
+        "咨询",
+        "战略",
+        "商业分析"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-15"
+      "postedDate": "2026-08-15",
+      "companyType": "外资投行&咨询"
     },
     {
       "id": 19,
@@ -506,18 +556,30 @@
       "logo": "🟢",
       "tier": "S",
       "position": "审计助理",
-      "category": ["财务", "审计"],
+      "category": [
+        "财务",
+        "审计"
+      ],
       "location": "北京/上海/广州/深圳",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-15",
       "headcount": "大量",
-      "requirements": ["会计/财务/审计相关专业", "CPA备考优先", "细致认真"],
+      "requirements": [
+        "会计/财务/审计相关专业",
+        "CPA备考优先",
+        "细致认真"
+      ],
       "description": "参与上市公司审计项目，进行财务报表分析、内控测试及风险评估。",
       "applyUrl": "https://www2.deloitte.com/cn/zh/pages/careers/articles/campus-recruitment.html",
-      "tags": ["审计", "财务", "CPA"],
+      "tags": [
+        "审计",
+        "财务",
+        "CPA"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-16"
+      "postedDate": "2026-08-16",
+      "companyType": "外资投行&咨询"
     },
     {
       "id": 20,
@@ -525,18 +587,30 @@
       "logo": "🔴",
       "tier": "S",
       "position": "税务顾问",
-      "category": ["财务", "税务"],
+      "category": [
+        "财务",
+        "税务"
+      ],
       "location": "北京/上海/深圳",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-15",
       "headcount": "若干",
-      "requirements": ["会计/税务/法律相关专业", "英语良好", "CPA/法律资格证优先"],
+      "requirements": [
+        "会计/税务/法律相关专业",
+        "英语良好",
+        "CPA/法律资格证优先"
+      ],
       "description": "为跨国企业提供税务筹划、合规及申报服务，参与转让定价和跨境税务咨询。",
       "applyUrl": "https://www.pwccn.com/zh/careers/campus.html",
-      "tags": ["税务", "财务", "咨询"],
+      "tags": [
+        "税务",
+        "财务",
+        "咨询"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-16"
+      "postedDate": "2026-08-16",
+      "companyType": "外资投行&咨询"
     },
     {
       "id": 21,
@@ -544,18 +618,30 @@
       "logo": "📈",
       "tier": "S",
       "position": "研究员（行业研究）",
-      "category": ["金融", "财务"],
+      "category": [
+        "金融",
+        "财务"
+      ],
       "location": "北京/上海",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-09-30",
       "headcount": "若干",
-      "requirements": ["金融/经济/理工科相关", "财务分析能力", "行业研究经验优先"],
+      "requirements": [
+        "金融/经济/理工科相关",
+        "财务分析能力",
+        "行业研究经验优先"
+      ],
       "description": "负责行业深度研究，撰写研究报告，为机构投资者提供投资建议。",
       "applyUrl": "https://campus.cicc.com/",
-      "tags": ["研究员", "金融", "行业研究"],
+      "tags": [
+        "研究员",
+        "金融",
+        "行业研究"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-16"
+      "postedDate": "2026-08-16",
+      "companyType": "国内金融&财务"
     },
     {
       "id": 22,
@@ -563,18 +649,31 @@
       "logo": "🐜",
       "tier": "S",
       "position": "风控策略分析师",
-      "category": ["金融", "数据科学", "财务"],
+      "category": [
+        "金融",
+        "数据科学",
+        "财务"
+      ],
       "location": "杭州/上海",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-20",
       "headcount": "若干",
-      "requirements": ["统计/金融/数学相关", "Python/SQL", "风控建模经验优先"],
+      "requirements": [
+        "统计/金融/数学相关",
+        "Python/SQL",
+        "风控建模经验优先"
+      ],
       "description": "负责信贷/支付风险策略制定，利用机器学习模型识别欺诈和信用风险。",
       "applyUrl": "https://campus.antgroup.com/",
-      "tags": ["风控", "金融科技", "数据建模"],
+      "tags": [
+        "风控",
+        "金融科技",
+        "数据建模"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-17"
+      "postedDate": "2026-08-17",
+      "companyType": "国内金融&财务"
     },
     {
       "id": 23,
@@ -582,18 +681,29 @@
       "logo": "🌸",
       "tier": "S",
       "position": "财经管理培训生",
-      "category": ["财务"],
+      "category": [
+        "财务"
+      ],
       "location": "全国",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-31",
       "headcount": "大量",
-      "requirements": ["财务/会计/经济相关", "CPA/ACCA优先", "接受外派"],
+      "requirements": [
+        "财务/会计/经济相关",
+        "CPA/ACCA优先",
+        "接受外派"
+      ],
       "description": "华为财经体系管培生，轮岗财务核算、预算管理、审计、税务等岗位，快速成长为财经骨干。",
       "applyUrl": "https://career.huawei.com/reccampportal/campus4school_index.html",
-      "tags": ["财务", "管培生", "世界500强"],
+      "tags": [
+        "财务",
+        "管培生",
+        "世界500强"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-17"
+      "postedDate": "2026-08-17",
+      "companyType": "国内金融&财务"
     },
     {
       "id": 24,
@@ -601,18 +711,29 @@
       "logo": "🎵",
       "tier": "S",
       "position": "财务BP（业务财务）",
-      "category": ["财务"],
+      "category": [
+        "财务"
+      ],
       "location": "北京/上海",
       "type": "校招",
       "season": "2026秋招",
       "deadline": "2026-10-31",
       "headcount": "若干",
-      "requirements": ["财务/会计/经济相关", "Excel/财务建模", "数据分析能力"],
+      "requirements": [
+        "财务/会计/经济相关",
+        "Excel/财务建模",
+        "数据分析能力"
+      ],
       "description": "作为业务合作伙伴，为广告/电商/游戏等业务线提供财务分析、预算管理和决策支持。",
       "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
-      "tags": ["财务BP", "FP&A", "业务财务"],
+      "tags": [
+        "财务BP",
+        "FP&A",
+        "业务财务"
+      ],
       "isNew": true,
-      "postedDate": "2026-08-17"
+      "postedDate": "2026-08-17",
+      "companyType": "互联网大厂"
     }
   ]
 }
