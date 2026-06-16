@@ -32,11 +32,7 @@ async function navClick(el) {
   document.getElementById('filters-bar').style.display = 'flex';
 
   // 加载对应数据
-  if (tab === 'state') {
-    allJobs = stateJobs;
-  } else {
-    allJobs = privateJobs;
-  }
+  allJobs = tab === 'state' ? stateJobs : privateJobs;
   applyFilters();
 }
 
@@ -237,6 +233,20 @@ const NAV_CAT_MAP = {
   'sec':   j => j.companyType === '国有证券',
   'ins':   j => j.companyType === '国有保险',
   '央企':  j => ['央企（通信/科技）','央企（能源）','央企（航空/制造）','央企（消费/地产）','央企（交通/基建）'].includes(j.companyType),
+  // 消费零售
+  'beauty':   j => j.companyType === '消费（美妆）',
+  'fmcg':     j => j.companyType === '消费（快消）',
+  'sports':   j => j.companyType === '消费（运动）',
+  'luxury':   j => j.companyType === '消费（奢侈品）',
+  // 制造工业
+  'auto':     j => j.companyType === '制造（汽车）',
+  'energy':   j => j.companyType === '制造（能源化工）',
+  // 医疗健康
+  'pharma':   j => j.companyType === '医疗（医药）',
+  'device':   j => j.companyType === '医疗（器械）',
+  // 其他外企
+  'logistics':j => j.companyType === '其他外企（物流）',
+  'food':     j => j.companyType === '其他外企（餐饮零售）',
 };
 
 function applyFilters() {
