@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-16",
   "jobs": [
     {
       "id": 1,
@@ -734,6 +734,882 @@
       "isNew": true,
       "postedDate": "2026-08-17",
       "companyType": "互联网大厂"
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "后端开发工程师",
+      "category": [
+        "后端开发"
+      ],
+      "location": "北京/上海/深圳",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "大量",
+      "requirements": [
+        "CS/软件工程相关",
+        "Java/Go/C++",
+        "分布式系统基础"
+      ],
+      "description": "负责高并发服务开发，参与抖音/飞书等核心产品后端架构设计与迭代。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "后端",
+        "Java",
+        "Go"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 25
+    },
+    {
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "后端开发工程师",
+      "category": [
+        "后端开发"
+      ],
+      "location": "深圳/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-30",
+      "headcount": "大量",
+      "requirements": [
+        "CS相关专业",
+        "C++/Java/Go",
+        "熟悉网络编程"
+      ],
+      "description": "参与微信/游戏/云等核心产品后端开发，解决超大规模并发挑战。",
+      "applyUrl": "https://join.qq.com/",
+      "tags": [
+        "后端",
+        "C++",
+        "腾讯"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 26
+    },
+    {
+      "company": "阿里巴巴",
+      "logo": "🟠",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "后端开发工程师",
+      "category": [
+        "后端开发"
+      ],
+      "location": "杭州/北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-15",
+      "headcount": "大量",
+      "requirements": [
+        "CS/软件工程",
+        "Java优先",
+        "分布式/微服务经验"
+      ],
+      "description": "参与淘宝/天猫/支付宝等核心交易链路后端研发，千万级QPS系统设计。",
+      "applyUrl": "https://talent.alibaba.com/campus/home",
+      "tags": [
+        "后端",
+        "Java",
+        "分布式"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 27
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "前端开发工程师",
+      "category": [
+        "前端开发"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "JavaScript/TypeScript",
+        "React/Vue",
+        "性能优化经验"
+      ],
+      "description": "负责抖音/飞书等产品Web/小程序前端开发，探索前端工程化与跨端方案。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "前端",
+        "React",
+        "TypeScript"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 28
+    },
+    {
+      "company": "美团",
+      "logo": "🦅",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "前端开发工程师",
+      "category": [
+        "前端开发"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-15",
+      "headcount": "若干",
+      "requirements": [
+        "JavaScript/TypeScript",
+        "React/Vue",
+        "小程序开发经验优先"
+      ],
+      "description": "负责美团外卖/到店/骑行等业务前端开发，支撑亿级用户的前端体验。",
+      "applyUrl": "https://campus.meituan.com/",
+      "tags": [
+        "前端",
+        "Vue",
+        "小程序"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 29
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "机器学习工程师（MLOps）",
+      "category": [
+        "AI",
+        "数据科学"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "CS/统计相关",
+        "Python",
+        "模型训练/部署经验",
+        "熟悉PyTorch/TensorFlow"
+      ],
+      "description": "负责大模型训练平台建设、模型推理优化与线上部署，支撑AI基础设施。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "MLOps",
+        "大模型",
+        "AI基础设施"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 30
+    },
+    {
+      "company": "百度",
+      "logo": "🔵",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "机器学习工程师",
+      "category": [
+        "AI"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-10",
+      "headcount": "若干",
+      "requirements": [
+        "CS/统计硕博优先",
+        "深度学习框架",
+        "模型压缩/推理优化"
+      ],
+      "description": "参与文心大模型训练与推理优化，提升千亿参数模型的训练效率与推理速度。",
+      "applyUrl": "https://talent.baidu.com/external/baidu/campus.html",
+      "tags": [
+        "大模型",
+        "推理优化",
+        "MLOps"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 31
+    },
+    {
+      "company": "阿里巴巴",
+      "logo": "🟠",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "大数据开发工程师",
+      "category": [
+        "数据科学"
+      ],
+      "location": "杭州/北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-15",
+      "headcount": "若干",
+      "requirements": [
+        "CS/统计相关",
+        "Spark/Flink/Hive",
+        "SQL优化经验"
+      ],
+      "description": "负责电商大数据平台建设，构建实时/离线数据管道，支撑业务决策分析。",
+      "applyUrl": "https://talent.alibaba.com/campus/home",
+      "tags": [
+        "大数据",
+        "Spark",
+        "Flink"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 32
+    },
+    {
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "大数据工程师",
+      "category": [
+        "数据科学"
+      ],
+      "location": "深圳",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-30",
+      "headcount": "若干",
+      "requirements": [
+        "CS相关",
+        "Hadoop/Spark/Flink",
+        "数据仓库设计经验"
+      ],
+      "description": "负责腾讯广告/游戏等业务大数据平台研发，日处理数据量PB级。",
+      "applyUrl": "https://join.qq.com/",
+      "tags": [
+        "大数据",
+        "数据仓库",
+        "Hadoop"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-15",
+      "id": 33
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "软件测试工程师",
+      "category": [
+        "后端开发"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "CS相关",
+        "自动化测试经验",
+        "Python/Java"
+      ],
+      "description": "负责抖音核心功能质量保障，设计自动化测试方案，建设测试基础设施。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "测试",
+        "自动化",
+        "质量保障"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 34
+    },
+    {
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "数据挖掘工程师",
+      "category": [
+        "数据科学",
+        "AI"
+      ],
+      "location": "上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-25",
+      "headcount": "若干",
+      "requirements": [
+        "统计/CS/数学相关",
+        "机器学习",
+        "Python/SQL"
+      ],
+      "description": "负责用户画像、内容理解、商业化等方向的数据挖掘，驱动社区生态优化。",
+      "applyUrl": "https://job.xiaohongshu.com/campus",
+      "tags": [
+        "数据挖掘",
+        "用户画像",
+        "机器学习"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 35
+    },
+    {
+      "company": "美团",
+      "logo": "🦅",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "数据挖掘工程师",
+      "category": [
+        "数据科学"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-15",
+      "headcount": "若干",
+      "requirements": [
+        "统计/数学/CS",
+        "机器学习建模",
+        "SQL/Python"
+      ],
+      "description": "利用数据挖掘技术优化外卖配送效率、用户留存和商家运营策略。",
+      "applyUrl": "https://campus.meituan.com/",
+      "tags": [
+        "数据挖掘",
+        "建模",
+        "外卖"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 36
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "BI工程师",
+      "category": [
+        "数据产品",
+        "数据科学"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "统计/CS相关",
+        "SQL/Python",
+        "Tableau/PowerBI/自研BI工具"
+      ],
+      "description": "负责业务指标体系建设与可视化报表开发，驱动多业务线数据化运营。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "BI",
+        "数据可视化",
+        "SQL"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 37
+    },
+    {
+      "company": "快手",
+      "logo": "✋",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "增长分析师",
+      "category": [
+        "数据科学",
+        "策略运营"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-20",
+      "headcount": "若干",
+      "requirements": [
+        "统计/数学相关",
+        "AB实验",
+        "SQL/Python"
+      ],
+      "description": "负责用户增长数据分析，设计AB实验方案，驱动DAU/留存核心指标提升。",
+      "applyUrl": "https://campus.kuaishou.cn/",
+      "tags": [
+        "增长",
+        "AB实验",
+        "数据分析"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 38
+    },
+    {
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "用户研究员（UXR）",
+      "category": [
+        "数据产品"
+      ],
+      "location": "深圳/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-30",
+      "headcount": "若干",
+      "requirements": [
+        "心理学/社会学/设计相关",
+        "定性定量研究方法",
+        "数据分析能力"
+      ],
+      "description": "负责微信/QQ等产品用户研究，通过访谈、问卷、眼动等方法洞察用户需求。",
+      "applyUrl": "https://join.qq.com/",
+      "tags": [
+        "用户研究",
+        "UXR",
+        "定性研究"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-16",
+      "id": 39
+    },
+    {
+      "company": "美团",
+      "logo": "🦅",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "产品经理（通用方向）",
+      "category": [
+        "数据产品"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-15",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "强逻辑思维",
+        "有互联网产品使用洞察"
+      ],
+      "description": "负责外卖/到店/骑行等业务产品设计，通过用户需求挖掘和数据分析推动产品迭代。",
+      "applyUrl": "https://campus.meituan.com/",
+      "tags": [
+        "产品经理",
+        "用户需求",
+        "产品设计"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 40
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "增长产品经理",
+      "category": [
+        "数据产品",
+        "策略运营"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "AB实验/增长黑客方法",
+        "数据分析能力"
+      ],
+      "description": "负责抖音/TikTok用户增长产品设计，通过实验驱动DAU、留存等核心指标增长。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "增长产品",
+        "AB实验",
+        "数据驱动"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 41
+    },
+    {
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "商业化产品经理",
+      "category": [
+        "数据产品"
+      ],
+      "location": "上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-25",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "广告/电商产品经验优先",
+        "强数据分析能力"
+      ],
+      "description": "负责小红书广告/电商商业化产品规划，平衡用户体验与商业收入目标。",
+      "applyUrl": "https://job.xiaohongshu.com/campus",
+      "tags": [
+        "商业化",
+        "广告",
+        "电商"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 42
+    },
+    {
+      "company": "百度",
+      "logo": "🔵",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "内容产品经理",
+      "category": [
+        "数据产品"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-10",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "对内容生态有深度理解",
+        "数据分析能力"
+      ],
+      "description": "负责百家号/好看视频内容产品规划，构建创作者生态和内容分发体系。",
+      "applyUrl": "https://talent.baidu.com/external/baidu/campus.html",
+      "tags": [
+        "内容产品",
+        "创作者",
+        "内容生态"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 43
+    },
+    {
+      "company": "阿里巴巴",
+      "logo": "🟠",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "B端产品经理（企业服务）",
+      "category": [
+        "数据产品"
+      ],
+      "location": "杭州/北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-15",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "SaaS/企业服务产品经验",
+        "理解业务流程"
+      ],
+      "description": "负责钉钉/阿里云企业服务产品规划，服务中小企业数字化转型。",
+      "applyUrl": "https://talent.alibaba.com/campus/home",
+      "tags": [
+        "B端产品",
+        "SaaS",
+        "企业服务"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 44
+    },
+    {
+      "company": "小红书",
+      "logo": "📕",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "内容运营",
+      "category": [
+        "策略运营"
+      ],
+      "location": "上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-25",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "对内容社区有热情",
+        "数据分析能力"
+      ],
+      "description": "负责小红书垂类内容生态建设，策划话题活动，扶持优质创作者。",
+      "applyUrl": "https://job.xiaohongshu.com/campus",
+      "tags": [
+        "内容运营",
+        "UGC",
+        "社区"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 45
+    },
+    {
+      "company": "快手",
+      "logo": "✋",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "用户运营",
+      "category": [
+        "策略运营"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-20",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "用户运营经验",
+        "数据分析工具"
+      ],
+      "description": "负责快手直播/短视频用户分层运营，制定用户激励策略，提升用户活跃度与留存。",
+      "applyUrl": "https://campus.kuaishou.cn/",
+      "tags": [
+        "用户运营",
+        "会员",
+        "留存"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-17",
+      "id": 46
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "商业化运营",
+      "category": [
+        "策略运营"
+      ],
+      "location": "北京/上海",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "广告/电商运营经验",
+        "数据分析能力"
+      ],
+      "description": "负责抖音广告/电商商业化运营，协助品牌客户制定投放策略，提升ROI。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "商业化",
+        "广告运营",
+        "电商"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 47
+    },
+    {
+      "company": "美团",
+      "logo": "🦅",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "品牌市场",
+      "category": [
+        "策略运营"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-15",
+      "headcount": "若干",
+      "requirements": [
+        "市场营销/广告相关",
+        "创意策划能力",
+        "数据分析基础"
+      ],
+      "description": "负责美团品牌传播与市场营销策略，策划大型营销活动，提升品牌影响力。",
+      "applyUrl": "https://campus.meituan.com/",
+      "tags": [
+        "品牌",
+        "市场营销",
+        "活动策划"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 48
+    },
+    {
+      "company": "腾讯",
+      "logo": "🐧",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "管理培训生（MT）",
+      "category": [
+        "策略运营"
+      ],
+      "location": "深圳/全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-30",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上，顶尖院校优先",
+        "全面综合素质",
+        "接受轮岗"
+      ],
+      "description": "腾讯精英培养项目，轮岗多个核心业务线，快速成长为业务骨干。",
+      "applyUrl": "https://join.qq.com/",
+      "tags": [
+        "管培生",
+        "综合管理",
+        "轮岗"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 49
+    },
+    {
+      "company": "阿里巴巴",
+      "logo": "🟠",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "管理培训生（MT）",
+      "category": [
+        "策略运营"
+      ],
+      "location": "杭州/全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-15",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "领导力潜质",
+        "接受全国轮岗"
+      ],
+      "description": "阿里巴巴管培生项目，轮岗电商/云/本地生活等核心业务，3年成为业务负责人。",
+      "applyUrl": "https://talent.alibaba.com/campus/home",
+      "tags": [
+        "管培生",
+        "领导力",
+        "阿里"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 50
+    },
+    {
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "商务拓展（BD）",
+      "category": [
+        "策略运营"
+      ],
+      "location": "北京/上海/深圳",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-31",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "强沟通谈判能力",
+        "商务分析能力"
+      ],
+      "description": "负责抖音/飞书等产品的商务合作拓展，开发品牌/媒体/企业客户，完成商业化目标。",
+      "applyUrl": "https://www.nowcoder.com/discuss/hub/company?companyId=665&type=0",
+      "tags": [
+        "BD",
+        "商务",
+        "合作拓展"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 51
+    },
+    {
+      "company": "美团",
+      "logo": "🦅",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "供应链管理",
+      "category": [
+        "策略运营"
+      ],
+      "location": "北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-09-15",
+      "headcount": "若干",
+      "requirements": [
+        "供应链/物流/工业工程相关",
+        "数据分析能力",
+        "熟悉ERP系统"
+      ],
+      "description": "负责美团买菜/闪购供应链优化，通过数据分析提升库存周转和配送效率。",
+      "applyUrl": "https://campus.meituan.com/",
+      "tags": [
+        "供应链",
+        "物流",
+        "库存优化"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 52
+    },
+    {
+      "company": "阿里巴巴",
+      "logo": "🟠",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "项目管理（PMO）",
+      "category": [
+        "策略运营"
+      ],
+      "location": "杭州/北京",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "2026-10-15",
+      "headcount": "若干",
+      "requirements": [
+        "本科及以上",
+        "PMP证书优先",
+        "跨部门协作能力"
+      ],
+      "description": "负责阿里核心项目规划与推进，协调多团队资源，确保项目按时保质交付。",
+      "applyUrl": "https://talent.alibaba.com/campus/home",
+      "tags": [
+        "PMO",
+        "项目管理",
+        "跨部门"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-18",
+      "id": 53
     }
   ]
 }
