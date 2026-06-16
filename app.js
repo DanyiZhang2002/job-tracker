@@ -193,6 +193,7 @@ function makeCard(job) {
         ${job.isNew ? '<span class="new-badge">NEW</span>' : ''}
       </div>
       <div class="card-position">${job.position}</div>
+      ${job.positionEn ? `<div class="card-position-en">${job.positionEn}</div>` : ''}
       <div class="card-meta">
         <span>📍 ${job.location}</span>
         <span>👥 ${job.headcount}</span>
