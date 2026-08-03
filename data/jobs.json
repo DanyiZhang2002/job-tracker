@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-03",
   "note": "✅ realData:true 为实时抓取；🔗 realData:false 为官网直达",
-  "scrapedCount": 292,
+  "scrapedCount": 303,
   "staticCount": 15,
   "jobs": [
     {
       "id": 2001,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 后端工程师开发实习生-飞书IM&AI Friendly",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：实习 | 后端工程师开发实习生-飞书IM&AI Friendly",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.515624",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2003,
       "company": "字节跳动",
       "logo": "🎵",
       "tier": "S",
@@ -31,12 +62,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.047869",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.560327",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2004,
+      "id": 2006,
       "company": "字节跳动",
       "logo": "🎵",
       "tier": "S",
@@ -62,12 +93,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.094383",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.621439",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2006,
+      "id": 2008,
       "company": "字节跳动",
       "logo": "🎵",
       "tier": "S",
@@ -93,43 +124,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.126142",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.660367",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2009,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | 平台研发工程师（26/27/28 届）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 平台研发工程师（26/27/28 届）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.177015",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2010,
+      "id": 2011,
       "company": "字节跳动",
       "logo": "🎵",
       "tier": "S",
@@ -155,8 +155,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.193797",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.728835",
       "source": "nowcoder-enterprise"
     },
     {
@@ -165,7 +165,7 @@
       "logo": "🎵",
       "tier": "S",
       "companyType": "互联网大厂",
-      "position": "实习 | 字节跳动开发者服务前端（实习、校 招）",
+      "position": "实习 | 平台研发工程师（26/27/28 届）",
       "category": [
         "综合岗位"
       ],
@@ -175,7 +175,7 @@
       "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 字节跳动开发者服务前端（实习、校 招）",
+      "description": "字节跳动2026校招岗位：实习 | 平台研发工程师（26/27/28 届）",
       "requirements": [
         "以官网岗位要求为准"
       ],
@@ -186,8 +186,70 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:10.229012",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.750304",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2014,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 开发工程师",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：实习 | 开发工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.790977",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2015,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 资深游戏服务器开发",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 资深游戏服务器开发",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:12.814382",
       "source": "nowcoder-enterprise"
     },
     {
@@ -217,8 +279,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:20.994919",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.359414",
       "source": "nowcoder-enterprise"
     },
     {
@@ -248,8 +310,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.010503",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.378678",
       "source": "nowcoder-enterprise"
     },
     {
@@ -279,8 +341,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.024986",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.397137",
       "source": "nowcoder-enterprise"
     },
     {
@@ -310,8 +372,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.039184",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.416771",
       "source": "nowcoder-enterprise"
     },
     {
@@ -341,8 +403,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.070058",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.454678",
       "source": "nowcoder-enterprise"
     },
     {
@@ -372,8 +434,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.084792",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.472805",
       "source": "nowcoder-enterprise"
     },
     {
@@ -403,8 +465,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:21.099391",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:24.491557",
       "source": "nowcoder-enterprise"
     },
     {
@@ -434,8 +496,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.638710",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.292193",
       "source": "nowcoder-enterprise"
     },
     {
@@ -465,8 +527,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.655722",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.313944",
       "source": "nowcoder-enterprise"
     },
     {
@@ -496,8 +558,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.672120",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.335979",
       "source": "nowcoder-enterprise"
     },
     {
@@ -527,8 +589,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.690661",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.358682",
       "source": "nowcoder-enterprise"
     },
     {
@@ -558,8 +620,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.723083",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.396974",
       "source": "nowcoder-enterprise"
     },
     {
@@ -589,8 +651,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.739377",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.420609",
       "source": "nowcoder-enterprise"
     },
     {
@@ -620,8 +682,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.806693",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.501864",
       "source": "nowcoder-enterprise"
     },
     {
@@ -651,8 +713,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.824431",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.523863",
       "source": "nowcoder-enterprise"
     },
     {
@@ -682,105 +744,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:31.841984",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:35.545811",
       "source": "nowcoder-enterprise"
     },
     {
       "id": 2034,
-      "company": "美团",
-      "logo": "🛵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "校招 | AI产品经理",
-      "category": [
-        "产品经理"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "美团2026校招岗位：校招 | AI产品经理",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/179",
-      "tags": [
-        "美团",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.522916",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2036,
-      "company": "美团",
-      "logo": "🛵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "校招 | 【校招】AI创新产品经理-北京&上海",
-      "category": [
-        "产品经理"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "美团2026校招岗位：校招 | 【校招】AI创新产品经理-北京&上海",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/179",
-      "tags": [
-        "美团",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.554163",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2037,
-      "company": "美团",
-      "logo": "🛵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "社招 | 项目助理",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "美团2026校招岗位：社招 | 项目助理",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/179",
-      "tags": [
-        "美团",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.570287",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2039,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -806,12 +775,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.599517",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.024170",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2040,
+      "id": 2035,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -837,12 +806,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.614102",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.044045",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2041,
+      "id": 2036,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -868,12 +837,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.629660",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.062327",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2043,
+      "id": 2037,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -899,12 +868,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.660974",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.080917",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2044,
+      "id": 2038,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -930,12 +899,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.675723",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.099970",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2048,
+      "id": 2042,
       "company": "美团",
       "logo": "🛵",
       "tier": "S",
@@ -961,8 +930,101 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:43.737467",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.172418",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2044,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.209851",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2045,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 初级产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | 初级产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.228714",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2048,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 产品经理-基础岗多base（实习）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 产品经理-基础岗多base（实习）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:47.287637",
       "source": "nowcoder-enterprise"
     },
     {
@@ -992,8 +1054,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.497377",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.508425",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1023,8 +1085,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.512931",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.529401",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1054,8 +1116,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.528455",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.549828",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1085,8 +1147,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.544459",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.570825",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1116,8 +1178,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.573038",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.614089",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1147,8 +1209,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.589096",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.635717",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1178,8 +1240,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.648761",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.720954",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1209,8 +1271,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.665189",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.744196",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1240,8 +1302,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:32:54.681098",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:47:58.766533",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1271,8 +1333,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.095985",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.024681",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1302,8 +1364,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.112000",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.045235",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1333,8 +1395,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.128375",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.065665",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1364,8 +1426,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.145263",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.086193",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1395,8 +1457,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.175694",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.124710",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1426,8 +1488,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.192712",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.146600",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1457,8 +1519,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.255320",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.227958",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1488,8 +1550,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.271278",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.249052",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1519,8 +1581,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:05.287660",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:10.270536",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1550,8 +1612,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.215541",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.560561",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1581,8 +1643,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.231275",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.581046",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1612,8 +1674,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.246929",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.600872",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1643,8 +1705,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.262540",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.620945",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1674,8 +1736,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.290821",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.656379",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1705,8 +1767,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.306788",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.676186",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1736,8 +1798,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.371921",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.761544",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1767,8 +1829,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.390251",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.782028",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1798,8 +1860,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:16.406180",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:21.804442",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1829,8 +1891,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:26.933769",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:32.968659",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1860,8 +1922,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:26.949666",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:32.991215",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1891,8 +1953,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:26.965170",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.012229",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1922,8 +1984,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:26.980388",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.033028",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1953,8 +2015,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:27.006376",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.070219",
       "source": "nowcoder-enterprise"
     },
     {
@@ -1984,8 +2046,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:27.021697",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.091631",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2015,8 +2077,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:27.079332",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.175018",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2046,8 +2108,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:27.094621",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.196425",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2077,8 +2139,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:27.112427",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:33.217614",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2108,8 +2170,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.534340",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.722188",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2139,8 +2201,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.550651",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.743136",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2170,8 +2232,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.566510",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.764813",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2201,8 +2263,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.581606",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.786021",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2232,8 +2294,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.608519",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.824379",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2263,8 +2325,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.628192",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.848931",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2294,8 +2356,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.685648",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.927574",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2325,8 +2387,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.700521",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.948737",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2356,8 +2418,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:37.715594",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:44.969355",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2387,8 +2449,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.064423",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.722556",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2418,8 +2480,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.080313",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.743874",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2449,8 +2511,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.096337",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.764504",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2480,8 +2542,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.111098",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.784124",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2511,8 +2573,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.136903",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.818555",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2542,8 +2604,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.151834",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.841476",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2573,8 +2635,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.208444",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.919117",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2604,8 +2666,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.223330",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.940325",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2635,8 +2697,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:48.239017",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:48:55.961625",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2666,8 +2728,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.590643",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:06.940214",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2697,8 +2759,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.606012",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:06.959998",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2728,8 +2790,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.621857",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:06.979767",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2759,8 +2821,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.639352",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.002051",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2790,8 +2852,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.665311",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.036770",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2821,8 +2883,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.680140",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.056120",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2852,8 +2914,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.736090",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.132281",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2883,8 +2945,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.752490",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.154075",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2914,8 +2976,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:33:58.767149",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:07.174665",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2945,8 +3007,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.856024",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:18.916682",
       "source": "nowcoder-enterprise"
     },
     {
@@ -2976,8 +3038,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.870979",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:18.939114",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3007,8 +3069,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.887183",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:18.960440",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3038,8 +3100,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.902144",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:18.981796",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3069,8 +3131,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.928549",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:19.021007",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3100,8 +3162,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:09.943149",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:19.042390",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3131,8 +3193,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:10.000024",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:19.128235",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3162,8 +3224,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:10.015197",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:19.149462",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3193,8 +3255,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:10.029972",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:19.171596",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3224,8 +3286,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.813072",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:30.917546",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3255,8 +3317,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.828187",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:30.939448",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3286,8 +3348,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.843179",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:30.960571",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3317,8 +3379,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.857672",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:30.982867",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3348,8 +3410,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.884567",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:31.022405",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3379,8 +3441,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.899163",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:31.043438",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3410,8 +3472,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.954973",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:31.127503",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3441,8 +3503,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.970196",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:31.147692",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3472,8 +3534,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:20.986383",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:31.169030",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3503,8 +3565,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.671692",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.275614",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3534,8 +3596,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.686894",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.297065",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3565,8 +3627,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.702247",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.318299",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3596,8 +3658,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.717195",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.340434",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3627,8 +3689,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.744215",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.380501",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3658,8 +3720,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.759628",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.402923",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3689,8 +3751,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.815491",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.481496",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3720,8 +3782,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.830597",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.504726",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3751,8 +3813,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:31.845187",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:42.525576",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3782,8 +3844,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.659989",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.503078",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3813,8 +3875,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.675541",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.523569",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3844,8 +3906,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.691222",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.544548",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3875,8 +3937,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.709851",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.565053",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3906,8 +3968,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.739973",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.602763",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3937,8 +3999,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.757182",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.623861",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3968,8 +4030,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.819537",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.703718",
       "source": "nowcoder-enterprise"
     },
     {
@@ -3999,8 +4061,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.836581",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.724615",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4030,8 +4092,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:42.852936",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:49:53.745156",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4061,8 +4123,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.398845",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.122919",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4092,8 +4154,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.416952",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.143203",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4123,8 +4185,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.432029",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.162719",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4154,8 +4216,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.447417",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.182454",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4185,8 +4247,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.477924",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.220889",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4216,8 +4278,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.493887",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.241141",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4247,8 +4309,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.573958",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.336311",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4278,8 +4340,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.589928",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.356530",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4309,8 +4371,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:34:53.605641",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:05.376952",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4340,8 +4402,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.568474",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.374770",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4371,8 +4433,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.583810",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.394369",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4402,8 +4464,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.598926",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.413844",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4433,8 +4495,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.614538",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.433643",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4464,8 +4526,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.641510",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.469263",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4495,8 +4557,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.656721",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.491460",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4526,8 +4588,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.715588",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.573374",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4557,8 +4619,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.730472",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.593604",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4588,8 +4650,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:04.745746",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:16.614546",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4619,8 +4681,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.332809",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.596395",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4650,8 +4712,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.347700",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.617731",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4681,8 +4743,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.363465",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.639047",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4712,8 +4774,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.378631",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.662515",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4743,8 +4805,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.404502",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.698912",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4774,8 +4836,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.419432",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.719776",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4805,8 +4867,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.476647",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.800980",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4836,8 +4898,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.491721",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.821847",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4867,8 +4929,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:15.507010",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:27.842570",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4898,8 +4960,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.089222",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:38.902326",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4929,8 +4991,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.104145",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:38.922122",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4960,8 +5022,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.119186",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:38.941590",
       "source": "nowcoder-enterprise"
     },
     {
@@ -4991,8 +5053,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.134129",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:38.961368",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5022,8 +5084,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.161447",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:38.995811",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5053,8 +5115,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.176839",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:39.016170",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5084,8 +5146,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.233608",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:39.092304",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5115,8 +5177,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.248695",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:39.117987",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5146,8 +5208,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:26.264686",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:39.139516",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5177,8 +5239,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.707468",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.225545",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5208,8 +5270,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.722777",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.247211",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5239,8 +5301,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.737562",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.270797",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5270,8 +5332,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.752175",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.292271",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5301,8 +5363,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.778245",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.331275",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5332,8 +5394,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.793077",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.353370",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5363,8 +5425,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.850123",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.436497",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5394,8 +5456,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.865292",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.459297",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5425,8 +5487,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:36.880238",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:50:50.480663",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5456,8 +5518,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.478424",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.199599",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5487,8 +5549,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.493065",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.219859",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5518,8 +5580,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.508212",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.239790",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5549,8 +5611,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.525335",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.259828",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5580,8 +5642,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.552065",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.294979",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5611,8 +5673,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.568593",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.317669",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5642,8 +5704,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.627338",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.399090",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5673,8 +5735,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.643366",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.421222",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5704,8 +5766,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:47.658342",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:01.441644",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5735,8 +5797,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.228110",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.767016",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5766,8 +5828,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.243475",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.788528",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5797,8 +5859,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.258544",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.809693",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5828,8 +5890,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.274408",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.833789",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5859,8 +5921,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.300913",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.872398",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5890,8 +5952,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.316015",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.893869",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5921,8 +5983,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.374413",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:21.978410",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5952,8 +6014,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.389788",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:22.001072",
       "source": "nowcoder-enterprise"
     },
     {
@@ -5983,8 +6045,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:35:58.405195",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:22.022696",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6014,8 +6076,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.841522",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.527505",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6045,8 +6107,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.856665",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.562660",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6076,8 +6138,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.872000",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.584187",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6107,8 +6169,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.887551",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.604613",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6138,8 +6200,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.915812",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.642169",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6169,8 +6231,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.930967",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.662945",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6200,8 +6262,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:08.988654",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.742914",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6231,8 +6293,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:09.004325",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.766369",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6262,8 +6324,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:09.019998",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:35.787606",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6293,8 +6355,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.253929",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.502816",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6324,8 +6386,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.268811",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.522233",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6355,8 +6417,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.283765",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.541958",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6386,8 +6448,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.298697",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.561496",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6417,8 +6479,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.324848",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.597869",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6448,8 +6510,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.340518",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.617883",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6479,8 +6541,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.396368",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.692381",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6510,8 +6572,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.412746",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.711978",
       "source": "nowcoder-enterprise"
     },
     {
@@ -6541,12 +6603,291 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:19.427849",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:46.735453",
       "source": "nowcoder-enterprise"
     },
     {
       "id": 2229,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.829786",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2230,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.851320",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2231,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.871720",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2232,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.892771",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2233,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.929106",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2234,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:58.951402",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2235,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:59.029366",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2236,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:59.050475",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2237,
+      "company": "招商证券",
+      "logo": "💹",
+      "tier": "S",
+      "companyType": "国有证券",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "招商证券2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/2452",
+      "tags": [
+        "招商证券",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:51:59.070940",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2238,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6572,12 +6913,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.766335",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:09.894465",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2230,
+      "id": 2239,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6603,12 +6944,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.781317",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:09.918647",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2231,
+      "id": 2240,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6634,12 +6975,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.796399",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:09.939770",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2232,
+      "id": 2241,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6665,12 +7006,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.811385",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:09.959751",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2233,
+      "id": 2242,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6696,12 +7037,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.838152",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:09.996678",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2234,
+      "id": 2243,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6727,12 +7068,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.853362",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:10.016553",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2235,
+      "id": 2244,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6758,12 +7099,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.910299",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:10.093856",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2236,
+      "id": 2245,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6789,12 +7130,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.925293",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:10.117772",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2237,
+      "id": 2246,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6820,12 +7161,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:36:49.940533",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:10.138313",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2238,
+      "id": 2247,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6851,12 +7192,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.464507",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.083505",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2239,
+      "id": 2248,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6882,12 +7223,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.479767",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.103772",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2240,
+      "id": 2249,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6913,12 +7254,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.495022",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.123356",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2241,
+      "id": 2250,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6944,12 +7285,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.510364",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.142963",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2242,
+      "id": 2251,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6975,12 +7316,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.538556",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.178023",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2243,
+      "id": 2252,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -7006,12 +7347,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.554464",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.197892",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2244,
+      "id": 2253,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -7037,12 +7378,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.613298",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.271880",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2245,
+      "id": 2254,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -7068,12 +7409,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.628787",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.294893",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2246,
+      "id": 2255,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -7099,12 +7440,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:00.645088",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:21.316780",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2247,
+      "id": 2256,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7130,12 +7471,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.717145",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.331274",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2248,
+      "id": 2257,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7161,12 +7502,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.732686",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.351832",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2249,
+      "id": 2258,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7192,12 +7533,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.751375",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.402025",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2250,
+      "id": 2259,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7223,12 +7564,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.769002",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.423230",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2251,
+      "id": 2260,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7254,12 +7595,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.797463",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.458522",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2252,
+      "id": 2261,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7285,12 +7626,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.813670",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.478011",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2253,
+      "id": 2262,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7316,12 +7657,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.873467",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.554832",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2254,
+      "id": 2263,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7347,12 +7688,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.889631",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.575350",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2255,
+      "id": 2264,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7378,12 +7719,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:11.906025",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:32.597151",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2256,
+      "id": 2265,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7409,12 +7750,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.144010",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.616624",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2257,
+      "id": 2266,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7440,12 +7781,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.191108",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.637355",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2258,
+      "id": 2267,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7471,12 +7812,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.206329",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.658372",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2259,
+      "id": 2268,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7502,12 +7843,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.221195",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.679167",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2260,
+      "id": 2269,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7533,12 +7874,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.247675",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.714573",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2261,
+      "id": 2270,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7564,12 +7905,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.262924",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.734953",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2262,
+      "id": 2271,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7595,12 +7936,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.320858",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.817339",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2263,
+      "id": 2272,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7626,12 +7967,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.336198",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.839800",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2264,
+      "id": 2273,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7657,12 +7998,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:22.351127",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:44.860935",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2265,
+      "id": 2274,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7688,12 +8029,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.732749",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:55.911848",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2266,
+      "id": 2275,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7719,12 +8060,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.751996",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:55.931349",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2267,
+      "id": 2276,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7750,12 +8091,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.767500",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:55.950651",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2268,
+      "id": 2277,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7781,12 +8122,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.782556",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:55.970438",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2269,
+      "id": 2278,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7812,12 +8153,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.808798",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:56.004625",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2270,
+      "id": 2279,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7843,12 +8184,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.824240",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:56.024300",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2271,
+      "id": 2280,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7874,12 +8215,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.880372",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:56.104012",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2272,
+      "id": 2281,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7905,12 +8246,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.895718",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:56.124876",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2273,
+      "id": 2282,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7936,12 +8277,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:32.910605",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:52:56.145379",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2274,
+      "id": 2283,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7967,12 +8308,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.530582",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.861018",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2275,
+      "id": 2284,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7998,12 +8339,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.545735",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.880525",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2276,
+      "id": 2285,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8029,12 +8370,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.562061",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.899930",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2277,
+      "id": 2286,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8060,12 +8401,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.576887",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.920539",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2278,
+      "id": 2287,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8091,12 +8432,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.605383",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.956415",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2279,
+      "id": 2288,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8122,12 +8463,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.621166",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:06.975896",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2280,
+      "id": 2289,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8153,12 +8494,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.679602",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:07.049349",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2281,
+      "id": 2290,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8184,12 +8525,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.695452",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:07.068821",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2282,
+      "id": 2291,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8215,12 +8556,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:44.710223",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:07.087911",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2283,
+      "id": 2292,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8246,12 +8587,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.234389",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:17.949951",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2284,
+      "id": 2293,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8277,12 +8618,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.249185",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:17.969571",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2285,
+      "id": 2294,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8308,12 +8649,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.264634",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:17.989230",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2286,
+      "id": 2295,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8339,12 +8680,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.279341",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.009165",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2287,
+      "id": 2296,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8370,12 +8711,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.305456",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.044196",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2288,
+      "id": 2297,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8401,12 +8742,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.320087",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.063534",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2289,
+      "id": 2298,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8432,12 +8773,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.379276",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.143005",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2290,
+      "id": 2299,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8463,12 +8804,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.394817",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.164101",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2291,
+      "id": 2300,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8494,12 +8835,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:37:55.409682",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:18.185051",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2292,
+      "id": 2301,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8525,12 +8866,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.022478",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.630303",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2293,
+      "id": 2302,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8556,12 +8897,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.037436",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.650811",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2294,
+      "id": 2303,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8587,12 +8928,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.052078",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.671522",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2295,
+      "id": 2304,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8618,12 +8959,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.067492",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.692139",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2296,
+      "id": 2305,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8649,12 +8990,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.093321",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.730937",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2297,
+      "id": 2306,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8680,12 +9021,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.108131",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.751500",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2298,
+      "id": 2307,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8711,12 +9052,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.164703",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.830700",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2299,
+      "id": 2308,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8742,12 +9083,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.180125",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.851195",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2300,
+      "id": 2309,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8773,12 +9114,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:06.195669",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:29.871494",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2301,
+      "id": 2310,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8804,12 +9145,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.587856",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.585805",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2302,
+      "id": 2311,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8835,12 +9176,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.602670",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.605583",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2303,
+      "id": 2312,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8866,12 +9207,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.617492",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.625013",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2304,
+      "id": 2313,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8897,12 +9238,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.632560",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.644672",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2305,
+      "id": 2314,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8928,12 +9269,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.658045",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.678853",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2306,
+      "id": 2315,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8959,12 +9300,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.673091",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.698326",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2307,
+      "id": 2316,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8990,12 +9331,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.733176",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.773811",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2308,
+      "id": 2317,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -9021,12 +9362,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.748013",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.794293",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2309,
+      "id": 2318,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -9052,8 +9393,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-08-02",
-      "scraped_at": "2026-08-02T05:38:16.763030",
+      "postedDate": "2026-08-03",
+      "scraped_at": "2026-08-03T05:53:40.817579",
       "source": "nowcoder-enterprise"
     },
     {
