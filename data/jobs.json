@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-19",
+  "lastUpdated": "2026-11-20",
   "note": "✅ realData:true 为实时抓取；🔗 realData:false 为官网直达",
-  "scrapedCount": 287,
+  "scrapedCount": 307,
   "staticCount": 15,
   "jobs": [
     {
@@ -10,7 +10,7 @@
       "logo": "🎵",
       "tier": "S",
       "companyType": "互联网大厂",
-      "position": "实习 | AI Agent开发实习生",
+      "position": "实习 | 开发工程师",
       "category": [
         "综合岗位"
       ],
@@ -20,7 +20,7 @@
       "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | AI Agent开发实习生",
+      "description": "字节跳动2026校招岗位：实习 | 开发工程师",
       "requirements": [
         "以官网岗位要求为准"
       ],
@@ -31,8 +31,70 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.278342",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.711594",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2002,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 高级研发工程师",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 高级研发工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.735548",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2003,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 资深游戏服务器开发",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 资深游戏服务器开发",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.761909",
       "source": "nowcoder-enterprise"
     },
     {
@@ -41,7 +103,255 @@
       "logo": "🎵",
       "tier": "S",
       "companyType": "互联网大厂",
-      "position": "实习 | 端智能算法工程师（26/27/28 届）",
+      "position": "社招 | 前端开发工程师",
+      "category": [
+        "前端开发"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 前端开发工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.783630",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2005,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 数据分析师",
+      "category": [
+        "数据科学"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 数据分析师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.809893",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2006,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | Android研发工程师",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | Android研发工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.831895",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2007,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | iOS研发工程师",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | iOS研发工程师",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.856960",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2008,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 运营",
+      "category": [
+        "策略运营"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 运营",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.880560",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2009,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 产品",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 产品",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.906967",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2010,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 后端研发Leader-电商供应链与物流",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 后端研发Leader-电商供应链与物流",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.932231",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2011,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 物流供应链研发",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "字节跳动2026校招岗位：社招 | 物流供应链研发",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/665",
+      "tags": [
+        "字节跳动",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.959696",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2012,
+      "company": "字节跳动",
+      "logo": "🎵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 大模型算法工程师",
       "category": [
         "AI算法"
       ],
@@ -51,7 +361,7 @@
       "deadline": "以官网为准",
       "headcount": "若干",
       "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 端智能算法工程师（26/27/28 届）",
+      "description": "字节跳动2026校招岗位：实习 | 大模型算法工程师",
       "requirements": [
         "以官网岗位要求为准"
       ],
@@ -62,225 +372,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.327021",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2006,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | 编译器开发工程师（26/27/28 届）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 编译器开发工程师（26/27/28 届）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.357983",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2009,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | 平台研发工程师（26/27/28 届）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 平台研发工程师（26/27/28 届）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.408767",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2010,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | 移动研发工程师（26/27/28 届）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | 移动研发工程师（26/27/28 届）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.424677",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2012,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | java（实习）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | java（实习）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.460409",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2013,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | Java（实习）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | Java（实习）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.475618",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2014,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "校招 | Java",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：校招 | Java",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.491156",
-      "source": "nowcoder-enterprise"
-    },
-    {
-      "id": 2015,
-      "company": "字节跳动",
-      "logo": "🎵",
-      "tier": "S",
-      "companyType": "互联网大厂",
-      "position": "实习 | Java(校招岗位)（实习）",
-      "category": [
-        "综合岗位"
-      ],
-      "location": "全国",
-      "type": "校招",
-      "season": "2026秋招",
-      "deadline": "以官网为准",
-      "headcount": "若干",
-      "realData": true,
-      "description": "字节跳动2026校招岗位：实习 | Java(校招岗位)（实习）",
-      "requirements": [
-        "以官网岗位要求为准"
-      ],
-      "applyUrl": "https://www.nowcoder.com/enterprise/665",
-      "tags": [
-        "字节跳动",
-        "校招",
-        "牛客直招"
-      ],
-      "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:01:48.507954",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:08.981126",
       "source": "nowcoder-enterprise"
     },
     {
@@ -310,8 +403,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:00.967336",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.073015",
       "source": "nowcoder-enterprise"
     },
     {
@@ -341,8 +434,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:00.983158",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.094435",
       "source": "nowcoder-enterprise"
     },
     {
@@ -372,8 +465,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.000107",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.118715",
       "source": "nowcoder-enterprise"
     },
     {
@@ -403,8 +496,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.014856",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.141658",
       "source": "nowcoder-enterprise"
     },
     {
@@ -434,8 +527,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.030592",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.162437",
       "source": "nowcoder-enterprise"
     },
     {
@@ -465,8 +558,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.045120",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.187806",
       "source": "nowcoder-enterprise"
     },
     {
@@ -496,8 +589,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.059502",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.208445",
       "source": "nowcoder-enterprise"
     },
     {
@@ -527,8 +620,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:01.074851",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:22.228628",
       "source": "nowcoder-enterprise"
     },
     {
@@ -558,8 +651,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.018774",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.021571",
       "source": "nowcoder-enterprise"
     },
     {
@@ -589,8 +682,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.035943",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.045015",
       "source": "nowcoder-enterprise"
     },
     {
@@ -620,8 +713,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.052881",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.070199",
       "source": "nowcoder-enterprise"
     },
     {
@@ -651,8 +744,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.069784",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.094483",
       "source": "nowcoder-enterprise"
     },
     {
@@ -682,8 +775,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.099649",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.142686",
       "source": "nowcoder-enterprise"
     },
     {
@@ -713,8 +806,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.115763",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.164815",
       "source": "nowcoder-enterprise"
     },
     {
@@ -744,8 +837,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.180379",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.261887",
       "source": "nowcoder-enterprise"
     },
     {
@@ -775,8 +868,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.199602",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.286586",
       "source": "nowcoder-enterprise"
     },
     {
@@ -806,12 +899,539 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:02:13.219449",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:35.310001",
       "source": "nowcoder-enterprise"
     },
     {
       "id": 2033,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | ai产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | ai产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.433796",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2034,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | Al Agent 产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | Al Agent 产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.458650",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2035,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理提前批（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理提前批（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.481912",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2037,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理实习生（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理实习生（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.530060",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2041,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理实习（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理实习（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.625312",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2042,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "实习 | 初级产品经理（可转正）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：实习 | 初级产品经理（可转正）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.648063",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2043,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "社招 | 初级产品经理",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：社招 | 初级产品经理",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.675194",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2047,
+      "company": "美团",
+      "logo": "🛵",
+      "tier": "S",
+      "companyType": "互联网大厂",
+      "position": "校招 | 产品经理（补录）",
+      "category": [
+        "产品经理"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "美团2026校招岗位：校招 | 产品经理（补录）",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/179",
+      "tags": [
+        "美团",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:51:48.762707",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2048,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "专项练习",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：专项练习",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.086789",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2049,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 笔试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：公司真题 笔试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.121541",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2050,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "公司真题 面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：公司真题 面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.147111",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2051,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "在线编程",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：在线编程",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.172694",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2052,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "面试经验",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：面试经验",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.213445",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2053,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "AI 模拟面试",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：AI 模拟面试",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.237277",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2054,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "基础学习课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：基础学习课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.327687",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2055,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "实战项目课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：实战项目课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.352093",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2056,
+      "company": "快手",
+      "logo": "▶️",
+      "tier": "A",
+      "companyType": "互联网大厂",
+      "position": "求职辅导课",
+      "category": [
+        "综合岗位"
+      ],
+      "location": "全国",
+      "type": "校招",
+      "season": "2026秋招",
+      "deadline": "以官网为准",
+      "headcount": "若干",
+      "realData": true,
+      "description": "快手2026校招岗位：求职辅导课",
+      "requirements": [
+        "以官网岗位要求为准"
+      ],
+      "applyUrl": "https://www.nowcoder.com/enterprise/518",
+      "tags": [
+        "快手",
+        "校招",
+        "牛客直招"
+      ],
+      "isNew": true,
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:01.376902",
+      "source": "nowcoder-enterprise"
+    },
+    {
+      "id": 2057,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -837,12 +1457,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.822152",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.480031",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2034,
+      "id": 2058,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -868,12 +1488,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.838466",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.505993",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2035,
+      "id": 2059,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -899,12 +1519,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.854091",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.528920",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2036,
+      "id": 2060,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -930,12 +1550,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.871174",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.553091",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2037,
+      "id": 2061,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -961,12 +1581,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.900030",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.595508",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2038,
+      "id": 2062,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -992,12 +1612,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.916367",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.619642",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2039,
+      "id": 2063,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -1023,12 +1643,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.978144",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.714939",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2040,
+      "id": 2064,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -1054,12 +1674,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:06.994759",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.739469",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2041,
+      "id": 2065,
       "company": "百度",
       "logo": "🔍",
       "tier": "A",
@@ -1085,12 +1705,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:07.010843",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:14.763651",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2042,
+      "id": 2066,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1116,12 +1736,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.253852",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.106084",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2043,
+      "id": 2067,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1147,12 +1767,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.270250",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.129096",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2044,
+      "id": 2068,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1178,12 +1798,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.286704",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.154412",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2045,
+      "id": 2069,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1209,12 +1829,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.303925",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.177023",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2046,
+      "id": 2070,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1240,12 +1860,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.333947",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.220570",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2047,
+      "id": 2071,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1271,12 +1891,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.350151",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.243142",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2048,
+      "id": 2072,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1302,12 +1922,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.410304",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.335464",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2049,
+      "id": 2073,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1333,12 +1953,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.426995",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.358197",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2050,
+      "id": 2074,
       "company": "小红书",
       "logo": "📕",
       "tier": "A",
@@ -1364,12 +1984,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:19.444331",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:27.381141",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2051,
+      "id": 2075,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1395,12 +2015,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.684040",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.078570",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2052,
+      "id": 2076,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1426,12 +2046,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.700629",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.102120",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2053,
+      "id": 2077,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1457,12 +2077,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.716893",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.126759",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2054,
+      "id": 2078,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1488,12 +2108,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.733393",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.152191",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2055,
+      "id": 2079,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1519,12 +2139,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.762607",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.191793",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2056,
+      "id": 2080,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1550,12 +2170,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.778993",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.214400",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2057,
+      "id": 2081,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1581,12 +2201,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.838199",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.307560",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2058,
+      "id": 2082,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1612,12 +2232,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.854692",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.331119",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2059,
+      "id": 2083,
       "company": "京东",
       "logo": "🛍️",
       "tier": "S",
@@ -1643,12 +2263,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:31.871762",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:40.354478",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2060,
+      "id": 2084,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1674,12 +2294,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.864792",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.727614",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2061,
+      "id": 2085,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1705,12 +2325,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.881141",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.751691",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2062,
+      "id": 2086,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1736,12 +2356,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.897006",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.774723",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2063,
+      "id": 2087,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1767,12 +2387,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.912590",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.799278",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2064,
+      "id": 2088,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1798,12 +2418,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.939379",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.840920",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2065,
+      "id": 2089,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1829,12 +2449,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:43.956047",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.866242",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2066,
+      "id": 2090,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1860,12 +2480,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:44.022253",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.958724",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2067,
+      "id": 2091,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1891,12 +2511,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:44.038950",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:52.984753",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2068,
+      "id": 2092,
       "company": "网易",
       "logo": "🎮",
       "tier": "A",
@@ -1922,12 +2542,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:44.055547",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:52:53.008816",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2069,
+      "id": 2093,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -1953,12 +2573,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.259505",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.718504",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2070,
+      "id": 2094,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -1984,12 +2604,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.274710",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.741221",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2071,
+      "id": 2095,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2015,12 +2635,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.289447",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.765165",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2072,
+      "id": 2096,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2046,12 +2666,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.305573",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.788509",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2073,
+      "id": 2097,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2077,12 +2697,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.333170",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.832120",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2074,
+      "id": 2098,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2108,12 +2728,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.351334",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.856880",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2075,
+      "id": 2099,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2139,12 +2759,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.413708",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.950948",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2076,
+      "id": 2100,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2170,12 +2790,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.429982",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.973837",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2077,
+      "id": 2101,
       "company": "滴滴",
       "logo": "🚖",
       "tier": "A",
@@ -2201,12 +2821,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:03:56.445290",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:05.996225",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2078,
+      "id": 2102,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2232,12 +2852,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.692605",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.489616",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2079,
+      "id": 2103,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2263,12 +2883,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.710081",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.512680",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2080,
+      "id": 2104,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2294,12 +2914,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.725693",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.537014",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2081,
+      "id": 2105,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2325,12 +2945,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.741778",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.560608",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2082,
+      "id": 2106,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2356,12 +2976,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.769506",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.603164",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2083,
+      "id": 2107,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2387,12 +3007,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.785199",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.626944",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2084,
+      "id": 2108,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2418,12 +3038,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.846209",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.717288",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2085,
+      "id": 2109,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2449,12 +3069,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.862707",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.741253",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2086,
+      "id": 2110,
       "company": "谷歌",
       "logo": "🔎",
       "tier": "S",
@@ -2480,12 +3100,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:08.878961",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:18.764611",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2087,
+      "id": 2111,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2511,12 +3131,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.848066",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.440280",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2088,
+      "id": 2112,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2542,12 +3162,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.863284",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.464162",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2089,
+      "id": 2113,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2573,12 +3193,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.879027",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.486723",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2090,
+      "id": 2114,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2604,12 +3224,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.893733",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.509634",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2091,
+      "id": 2115,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2635,12 +3255,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.919823",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.550488",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2092,
+      "id": 2116,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2666,12 +3286,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:20.937937",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.575143",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2093,
+      "id": 2117,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2697,12 +3317,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:21.014109",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.664494",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2094,
+      "id": 2118,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2728,12 +3348,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:21.030766",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.689019",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2095,
+      "id": 2119,
       "company": "微软",
       "logo": "🪟",
       "tier": "S",
@@ -2759,12 +3379,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:21.048113",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:31.711593",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2096,
+      "id": 2120,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2790,12 +3410,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.129217",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.543846",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2097,
+      "id": 2121,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2821,12 +3441,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.145664",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.567953",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2098,
+      "id": 2122,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2852,12 +3472,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.161322",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.589924",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2099,
+      "id": 2123,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2883,12 +3503,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.177362",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.611182",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2100,
+      "id": 2124,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2914,12 +3534,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.211659",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.650806",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2101,
+      "id": 2125,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2945,12 +3565,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.230741",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.673502",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2102,
+      "id": 2126,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -2976,12 +3596,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.291457",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.755386",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2103,
+      "id": 2127,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -3007,12 +3627,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.307751",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.777603",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2104,
+      "id": 2128,
       "company": "高盛",
       "logo": "🏛️",
       "tier": "S",
@@ -3038,12 +3658,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:33.323220",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:45.800982",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2105,
+      "id": 2129,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3069,12 +3689,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.690116",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.456273",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2106,
+      "id": 2130,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3100,12 +3720,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.706055",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.481323",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2107,
+      "id": 2131,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3131,12 +3751,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.722733",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.505655",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2108,
+      "id": 2132,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3162,12 +3782,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.739363",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.533447",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2109,
+      "id": 2133,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3193,12 +3813,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.801051",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.576015",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2110,
+      "id": 2134,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3224,12 +3844,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.817400",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.602621",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2111,
+      "id": 2135,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3255,12 +3875,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.879324",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.693979",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2112,
+      "id": 2136,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3286,12 +3906,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.895800",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.720007",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2113,
+      "id": 2137,
       "company": "摩根大通",
       "logo": "🏦",
       "tier": "S",
@@ -3317,12 +3937,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:45.912089",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:53:58.745653",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2114,
+      "id": 2138,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3348,12 +3968,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.027561",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.084773",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2115,
+      "id": 2139,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3379,12 +3999,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.043898",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.108359",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2116,
+      "id": 2140,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3410,12 +4030,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.059363",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.131504",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2117,
+      "id": 2141,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3441,12 +4061,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.075355",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.154667",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2118,
+      "id": 2142,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3472,12 +4092,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.104402",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.195998",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2119,
+      "id": 2143,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3503,12 +4123,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.122082",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.218955",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2120,
+      "id": 2144,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3534,12 +4154,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.183167",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.307856",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2121,
+      "id": 2145,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3565,12 +4185,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.199251",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.331481",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2122,
+      "id": 2146,
       "company": "麦肯锡",
       "logo": "🎯",
       "tier": "S",
@@ -3596,12 +4216,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:04:58.215546",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:11.354521",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2123,
+      "id": 2147,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3627,12 +4247,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.060066",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.821421",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2124,
+      "id": 2148,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3658,12 +4278,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.075202",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.848455",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2125,
+      "id": 2149,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3689,12 +4309,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.092720",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.871677",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2126,
+      "id": 2150,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3720,12 +4340,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.109051",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.895682",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2127,
+      "id": 2151,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3751,12 +4371,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.136960",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.938373",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2128,
+      "id": 2152,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3782,12 +4402,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.156469",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:23.962192",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2129,
+      "id": 2153,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3813,12 +4433,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.215816",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:24.071769",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2130,
+      "id": 2154,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3844,12 +4464,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.232508",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:24.097281",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2131,
+      "id": 2155,
       "company": "BCG",
       "logo": "📊",
       "tier": "S",
@@ -3875,12 +4495,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:10.249164",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:24.120245",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2132,
+      "id": 2156,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -3906,12 +4526,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.141295",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.504507",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2133,
+      "id": 2157,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -3937,12 +4557,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.156763",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.529300",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2134,
+      "id": 2158,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -3968,12 +4588,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.172819",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.553214",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2135,
+      "id": 2159,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -3999,12 +4619,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.188894",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.576527",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2136,
+      "id": 2160,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -4030,12 +4650,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.216699",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.618996",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2137,
+      "id": 2161,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -4061,12 +4681,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.232772",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.642109",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2138,
+      "id": 2162,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -4092,12 +4712,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.294301",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.733396",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2139,
+      "id": 2163,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -4123,12 +4743,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.310840",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.756695",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2140,
+      "id": 2164,
       "company": "西门子",
       "logo": "🏭",
       "tier": "A",
@@ -4154,12 +4774,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:22.327133",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:36.781206",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2141,
+      "id": 2165,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4185,12 +4805,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.520821",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.129707",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2142,
+      "id": 2166,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4216,12 +4836,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.535797",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.152996",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2143,
+      "id": 2167,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4247,12 +4867,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.551465",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.177809",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2144,
+      "id": 2168,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4278,12 +4898,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.567305",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.199622",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2145,
+      "id": 2169,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4309,12 +4929,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.595856",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.241969",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2146,
+      "id": 2170,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4340,12 +4960,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.612759",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.270200",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2147,
+      "id": 2171,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4371,12 +4991,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.673766",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.360992",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2148,
+      "id": 2172,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4402,12 +5022,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.688936",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.422201",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2149,
+      "id": 2173,
       "company": "博世",
       "logo": "🔧",
       "tier": "A",
@@ -4433,12 +5053,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:34.705277",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:54:49.446603",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2150,
+      "id": 2174,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4464,12 +5084,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.901423",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.799462",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2151,
+      "id": 2175,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4495,12 +5115,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.917482",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.821954",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2152,
+      "id": 2176,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4526,12 +5146,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.932161",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.846385",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2153,
+      "id": 2177,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4557,12 +5177,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.947076",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.868958",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2154,
+      "id": 2178,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4588,12 +5208,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.975028",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.908558",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2155,
+      "id": 2179,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4619,12 +5239,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:46.990174",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:01.932255",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2156,
+      "id": 2180,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4650,12 +5270,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:47.049105",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:02.019497",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2157,
+      "id": 2181,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4681,12 +5301,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:47.065422",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:02.043898",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2158,
+      "id": 2182,
       "company": "施耐德电气",
       "logo": "⚡",
       "tier": "A",
@@ -4712,12 +5332,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:47.080665",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:02.066223",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2159,
+      "id": 2183,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4743,12 +5363,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:58.978072",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.307682",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2160,
+      "id": 2184,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4774,12 +5394,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:58.994517",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.338693",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2161,
+      "id": 2185,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4805,12 +5425,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.010198",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.362979",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2162,
+      "id": 2186,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4836,12 +5456,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.028038",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.386852",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2163,
+      "id": 2187,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4867,12 +5487,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.054955",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.431555",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2164,
+      "id": 2188,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4898,12 +5518,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.071043",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.454422",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2165,
+      "id": 2189,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4929,12 +5549,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.129647",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.549014",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2166,
+      "id": 2190,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4960,12 +5580,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.144650",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.572540",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2167,
+      "id": 2191,
       "company": "ABB中国",
       "logo": "🏗️",
       "tier": "A",
@@ -4991,12 +5611,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:05:59.160528",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:14.596666",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2168,
+      "id": 2192,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5022,12 +5642,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.494458",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.007609",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2169,
+      "id": 2193,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5053,12 +5673,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.511134",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.031334",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2170,
+      "id": 2194,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5084,12 +5704,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.530076",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.054363",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2171,
+      "id": 2195,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5115,12 +5735,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.546626",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.078454",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2172,
+      "id": 2196,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5146,12 +5766,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.576146",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.119028",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2173,
+      "id": 2197,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5177,12 +5797,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.592676",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.148159",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2174,
+      "id": 2198,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5208,12 +5828,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.659088",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.234522",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2175,
+      "id": 2199,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5239,12 +5859,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.675518",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.261311",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2176,
+      "id": 2200,
       "company": "比亚迪",
       "logo": "🚗",
       "tier": "S",
@@ -5270,12 +5890,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:11.692513",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:27.284960",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2177,
+      "id": 2201,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5301,12 +5921,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.737122",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.615017",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2178,
+      "id": 2202,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5332,12 +5952,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.753719",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.638423",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2179,
+      "id": 2203,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5363,12 +5983,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.769722",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.661611",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2180,
+      "id": 2204,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5394,12 +6014,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.785511",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.684387",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2181,
+      "id": 2205,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5425,12 +6045,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.812807",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.725484",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2182,
+      "id": 2206,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5456,12 +6076,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.829205",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.749286",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2183,
+      "id": 2207,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5487,12 +6107,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.890952",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.834950",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2184,
+      "id": 2208,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5518,12 +6138,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.907757",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.859011",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2185,
+      "id": 2209,
       "company": "特斯拉",
       "logo": "⚡",
       "tier": "S",
@@ -5549,12 +6169,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:23.924015",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:39.882547",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2186,
+      "id": 2210,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5580,12 +6200,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.660820",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.829745",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2187,
+      "id": 2211,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5611,12 +6231,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.675991",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.851543",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2188,
+      "id": 2212,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5642,12 +6262,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.691647",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.872229",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2189,
+      "id": 2213,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5673,12 +6293,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.708625",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.895701",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2190,
+      "id": 2214,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5704,12 +6324,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.736226",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.934968",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2191,
+      "id": 2215,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5735,12 +6355,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.751819",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:54.962628",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2192,
+      "id": 2216,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5766,12 +6386,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.809083",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:55.047389",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2193,
+      "id": 2217,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5797,12 +6417,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.824376",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:55.071271",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2194,
+      "id": 2218,
       "company": "华为",
       "logo": "📱",
       "tier": "S",
@@ -5828,12 +6448,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:37.839951",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:55:55.097280",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2195,
+      "id": 2219,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -5859,12 +6479,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.841976",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.010630",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2196,
+      "id": 2220,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -5890,12 +6510,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.857446",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.033709",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2197,
+      "id": 2221,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -5921,12 +6541,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.873545",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.055882",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2198,
+      "id": 2222,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -5952,12 +6572,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.890416",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.080008",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2199,
+      "id": 2223,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -5983,12 +6603,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.919825",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.121774",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2200,
+      "id": 2224,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -6014,12 +6634,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.936399",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.147090",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2201,
+      "id": 2225,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -6045,12 +6665,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:49.996768",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.239181",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2202,
+      "id": 2226,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -6076,12 +6696,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:50.013138",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.263995",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2203,
+      "id": 2227,
       "company": "中信证券",
       "logo": "📈",
       "tier": "S",
@@ -6107,12 +6727,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:06:50.028995",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:08.286645",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2204,
+      "id": 2228,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6138,12 +6758,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:01.960830",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.005164",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2205,
+      "id": 2229,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6169,12 +6789,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:01.987914",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.029888",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2206,
+      "id": 2230,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6200,12 +6820,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.003785",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.052752",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2207,
+      "id": 2231,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6231,12 +6851,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.020708",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.077606",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2208,
+      "id": 2232,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6262,12 +6882,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.047429",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.116966",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2209,
+      "id": 2233,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6293,12 +6913,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.062821",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.141977",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2210,
+      "id": 2234,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6324,12 +6944,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.126085",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.226367",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2211,
+      "id": 2235,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6355,12 +6975,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.142732",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.250633",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2212,
+      "id": 2236,
       "company": "招商证券",
       "logo": "💹",
       "tier": "S",
@@ -6386,12 +7006,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:02.158646",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:21.273947",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2213,
+      "id": 2237,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6417,12 +7037,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.439258",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:33.912452",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2214,
+      "id": 2238,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6448,12 +7068,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.455351",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:33.937190",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2215,
+      "id": 2239,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6479,12 +7099,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.470626",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:33.962318",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2216,
+      "id": 2240,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6510,12 +7130,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.489709",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:33.985629",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2217,
+      "id": 2241,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6541,12 +7161,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.518248",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:34.026341",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2218,
+      "id": 2242,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6572,12 +7192,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.534725",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:34.049435",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2219,
+      "id": 2243,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6603,12 +7223,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.594269",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:34.140427",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2220,
+      "id": 2244,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6634,12 +7254,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.612944",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:34.165337",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2221,
+      "id": 2245,
       "company": "华泰证券",
       "logo": "🏦",
       "tier": "A",
@@ -6665,12 +7285,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:14.629774",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:34.188848",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2222,
+      "id": 2246,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6696,12 +7316,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.640549",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.607167",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2223,
+      "id": 2247,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6727,12 +7347,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.656190",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.630739",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2224,
+      "id": 2248,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6758,12 +7378,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.674165",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.655102",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2225,
+      "id": 2249,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6789,12 +7409,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.689718",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.683238",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2226,
+      "id": 2250,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6820,12 +7440,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.717790",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.725998",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2227,
+      "id": 2251,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6851,12 +7471,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.734516",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.749286",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2228,
+      "id": 2252,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6882,12 +7502,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.794302",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.835375",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2229,
+      "id": 2253,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6913,12 +7533,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.811158",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.861300",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2230,
+      "id": 2254,
       "company": "国泰海通",
       "logo": "📊",
       "tier": "A",
@@ -6944,12 +7564,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:26.826640",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:46.884432",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2231,
+      "id": 2255,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -6975,12 +7595,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.824748",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.429039",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2232,
+      "id": 2256,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7006,12 +7626,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.843385",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.452707",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2233,
+      "id": 2257,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7037,12 +7657,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.859310",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.477616",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2234,
+      "id": 2258,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7068,12 +7688,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.876316",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.539006",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2235,
+      "id": 2259,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7099,12 +7719,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.905199",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.580371",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2236,
+      "id": 2260,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7130,12 +7750,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.921363",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.603884",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2237,
+      "id": 2261,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7161,12 +7781,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.983825",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.691453",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2238,
+      "id": 2262,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7192,12 +7812,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:38.999359",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.715463",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2239,
+      "id": 2263,
       "company": "中金公司",
       "logo": "🌟",
       "tier": "S",
@@ -7223,12 +7843,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:39.014053",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:56:59.741114",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2240,
+      "id": 2264,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7254,12 +7874,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.277625",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.367186",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2241,
+      "id": 2265,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7285,12 +7905,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.293418",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.391038",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2242,
+      "id": 2266,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7316,12 +7936,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.309104",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.413198",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2243,
+      "id": 2267,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7347,12 +7967,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.325799",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.436450",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2244,
+      "id": 2268,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7378,12 +7998,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.354104",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.478954",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2245,
+      "id": 2269,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7409,12 +8029,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.370608",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.500565",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2246,
+      "id": 2270,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7440,12 +8060,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.428978",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.586668",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2247,
+      "id": 2271,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7471,12 +8091,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.444136",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.611519",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2248,
+      "id": 2272,
       "company": "雅诗兰黛",
       "logo": "💄",
       "tier": "S",
@@ -7502,12 +8122,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:07:51.460299",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:12.634626",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2249,
+      "id": 2273,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7533,12 +8153,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.644789",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.001515",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2250,
+      "id": 2274,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7564,12 +8184,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.660241",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.025579",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2251,
+      "id": 2275,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7595,12 +8215,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.676091",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.047334",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2252,
+      "id": 2276,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7626,12 +8246,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.692363",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.069959",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2253,
+      "id": 2277,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7657,12 +8277,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.723271",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.109851",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2254,
+      "id": 2278,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7688,12 +8308,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.739876",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.132727",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2255,
+      "id": 2279,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7719,12 +8339,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.801684",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.233118",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2256,
+      "id": 2280,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7750,12 +8370,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.818370",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.257058",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2257,
+      "id": 2281,
       "company": "欧莱雅",
       "logo": "🌸",
       "tier": "S",
@@ -7781,12 +8401,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:03.837105",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:25.279137",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2258,
+      "id": 2282,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7812,12 +8432,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.820527",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.118125",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2259,
+      "id": 2283,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7843,12 +8463,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.836154",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.143454",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2260,
+      "id": 2284,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7874,12 +8494,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.852747",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.168360",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2261,
+      "id": 2285,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7905,12 +8525,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.868143",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.193328",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2262,
+      "id": 2286,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7936,12 +8556,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.895263",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.233775",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2263,
+      "id": 2287,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7967,12 +8587,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.911734",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.259586",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2264,
+      "id": 2288,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -7998,12 +8618,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.972559",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.349456",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2265,
+      "id": 2289,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8029,12 +8649,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:15.988683",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.373563",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2266,
+      "id": 2290,
       "company": "宝洁",
       "logo": "🧴",
       "tier": "S",
@@ -8060,12 +8680,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:16.004172",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:38.396743",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2267,
+      "id": 2291,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8091,12 +8711,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.061744",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:50.967470",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2268,
+      "id": 2292,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8122,12 +8742,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.077592",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:50.991278",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2269,
+      "id": 2293,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8153,12 +8773,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.092609",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.013201",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2270,
+      "id": 2294,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8184,12 +8804,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.108317",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.037737",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2271,
+      "id": 2295,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8215,12 +8835,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.135680",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.078797",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2272,
+      "id": 2296,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8246,12 +8866,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.151924",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.106356",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2273,
+      "id": 2297,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8277,12 +8897,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.210361",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.195217",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2274,
+      "id": 2298,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8308,12 +8928,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.226091",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.217592",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2275,
+      "id": 2299,
       "company": "联合利华",
       "logo": "🌿",
       "tier": "S",
@@ -8339,12 +8959,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:29.242686",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:57:51.241617",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2276,
+      "id": 2300,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8370,12 +8990,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.527208",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:03.982185",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2277,
+      "id": 2301,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8401,12 +9021,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.543027",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.005370",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2278,
+      "id": 2302,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8432,12 +9052,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.558719",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.029129",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2279,
+      "id": 2303,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8463,12 +9083,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.574679",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.050901",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2280,
+      "id": 2304,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8494,12 +9114,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.601769",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.092487",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2281,
+      "id": 2305,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8525,12 +9145,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.617225",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.115275",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2282,
+      "id": 2306,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8556,12 +9176,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.680835",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.203544",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2283,
+      "id": 2307,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8587,12 +9207,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.696502",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.227578",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2284,
+      "id": 2308,
       "company": "阿迪达斯",
       "logo": "⚽",
       "tier": "A",
@@ -8618,12 +9238,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:41.710962",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:04.250621",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2285,
+      "id": 2309,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8649,12 +9269,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.588527",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.541571",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2286,
+      "id": 2310,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8680,12 +9300,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.604262",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.564732",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2287,
+      "id": 2311,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8711,12 +9331,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.619323",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.588649",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2288,
+      "id": 2312,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8742,12 +9362,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.635052",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.611817",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2289,
+      "id": 2313,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8773,12 +9393,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.663732",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.650629",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2290,
+      "id": 2314,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8804,12 +9424,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.677813",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.675411",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2291,
+      "id": 2315,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8835,12 +9455,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.735708",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.769034",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2292,
+      "id": 2316,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8866,12 +9486,12 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.751780",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.794030",
       "source": "nowcoder-enterprise"
     },
     {
-      "id": 2293,
+      "id": 2317,
       "company": "星巴克",
       "logo": "☕",
       "tier": "A",
@@ -8897,8 +9517,8 @@
         "牛客直招"
       ],
       "isNew": true,
-      "postedDate": "2026-11-19",
-      "scraped_at": "2026-11-19T10:08:53.767574",
+      "postedDate": "2026-11-20",
+      "scraped_at": "2026-11-20T09:58:16.817487",
       "source": "nowcoder-enterprise"
     },
     {
